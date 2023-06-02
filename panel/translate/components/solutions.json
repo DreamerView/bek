@@ -1,0 +1,99 @@
+{
+    "title":{
+        "kk":"BEK негізгі шешімдері",
+        "ru":"Основные Решения от BEK",
+        "en":"Basic Solutions from BEK"
+    },
+    "folder":[
+        {
+            "img":"/images/icons/speed.svg",
+            "backColor":"greenBackground",
+            "title":{
+                "kk":"Отын шығынын бақылау",
+                "ru":"Контроль расхода топлива",
+                "en":"Fuel consumption monitoring"
+            },
+            "content":{
+                "kk":"Жанармай бактары мен жанармай желілерінен ЖЖМ ұрлауының алдын алу.",
+                "ru":"Предотвращение хищения ГСМ с топливных баков и топливных магистралей.",
+                "en":"Prevention of theft of fuel from fuel tanks and fuel lines."
+            },
+            "url":"/skrt"
+        },
+        {
+            "img":"/images/icons/local_shipping.svg",
+            "backColor":"blueBackground",
+            "title":{
+                "kk":"Үзілістерді азайту",
+                "ru":"Минимизация простоев",
+                "en":"Minimizing downtime"
+            },
+            "content":{
+                "kk":"Көлік құралын нақты уақыт режимінде бақылау.",
+                "ru":"Слежение за транспортным средством в режиме реального времени.",
+                "en":"Vehicle tracking in real time."
+            },
+            "url":""
+        },
+        {
+            "img":"/images/icons/bar_chart.svg",
+            "backColor":"orangeBackground",
+            "title":{
+                "kk":"Деректерді талдау",
+                "ru":"Аналитика данных",
+                "en":"Data Analytics"
+            },
+            "content":{
+                "kk":"Көлік құралы туралы толық ақпараты бар жиынтық есептерді ұсыну.",
+                "ru":"Предоставление сводных отчетов с развернутой информацией о транспортном средстве.",
+                "en":"Providing summary reports with detailed information about the vehicle."
+            },
+            "url":""
+        },
+        {
+            "img":"/images/icons/local_gas_station.svg",
+            "backColor":"redBackground",
+            "title":{
+                "kk":"ЖЖМ шығындарын азайту",
+                "ru":"Снижение затрат ГСМ",
+                "en":"Reducing fuel costs"
+            },
+            "content":{
+                "kk":"Жанармай құю станцияларын, сондай-ақ көлік құралына жанармай құюды бақылау.",
+                "ru":"Контроль заправочных станций, а также заправки транспортного средства.",
+                "en":"Control of filling stations, as well as vehicle refueling."
+            },
+            "url":""
+        },
+        {
+            "img":"/images/icons/query_stats.svg",
+            "backColor":"purpleBackground",
+            "title":{
+                "kk":"Өндіріс мониторингі",
+                "ru":"Мониторинг производства",
+                "en":"Production monitoring"
+            },
+            "content":{
+                "kk":"Көлік құралдарын мақсатсыз пайдаланудың алдын алу.",
+                "ru":"Предотвращение нецелевого использования транспортных средств.",
+                "en":"Prevention of misuse of vehicles."
+            },
+            "url":""
+        },
+        {
+            "img":"/images/icons/travel_explore.svg",
+            "backColor":"blackPurpleBackground",
+            "title":{
+                "kk":"Көліктің геолокациясы",
+                "ru":"Геолокация транспорта",
+                "en":"Geolocation of transport"
+            },
+            "content":{
+                "kk":"Көлік құралының толық бағытын оның ішінде тұрақтар мен аялдамаларды бақылау мүмкіндігі.",
+                "ru":"Возможность отслеживать полный маршрут транспортного средства включая стоянки и остановки.",
+                "en":"The ability to track the full route of the vehicle including parking and stops."
+            },
+            "url":""
+        }
+    ]
+}

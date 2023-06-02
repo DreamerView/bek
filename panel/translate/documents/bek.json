@@ -1,0 +1,149 @@
+[
+    {
+        "key":"escort-i4",
+        "title1":{
+            "kk":"Жанармай деңгейінің индикаторы",
+            "ru":"Индикатор уровня топлива",
+            "en":"Fuel level indicator"
+        },
+        "title2":{
+            "kk":"",
+            "ru":"",
+            "en":""
+        },
+        "content":{
+            "kk":"кат. №1200758311. Ағымдағы деректер индикаторы",
+            "ru":"кат. №1200758311. Индикатор текущих данных ДУТ",
+            "en":"cat. №1200758311. Current data indicator DUT"
+        },
+        "url":"https://radioterminal.ru/katalog/gps-glonass-monitoring/uchet-topliva/eskort-i4",
+        "urlType":"_blank",
+        "img":"/images/equipment/escort/list/escort-i4.webp"
+    },
+    {
+        "key":"galileosky",
+        "title1":{
+            "kk":"Терминал",
+            "ru":"Терминал",
+            "en":"Terminal"
+        },
+        "title2":{
+            "kk":"Жүйенің бас терминалы",
+            "ru":"Головной терминал системы",
+            "en":"The head terminal of the system"
+        },
+        "content":{
+            "kk":"кат. №1200768514. Терминал әртүрлі жабдықтан серверге деректерді алуға, жинақтауға және жіберуге арналған",
+            "ru":"кат. №1200768514. Терминал предназначен для снятия, накопления и отправки данных с различного оборудования на сервер",
+            "en":"cat. №1200768514. The terminal is designed to withdraw, accumulate and send data from various equipment to the server"
+        },
+        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "urlType":"_blank",
+        "img":"/images/equipment/bek/list/galileosky.webp"
+    },
+    {
+        "key":"can",
+        "title1":{
+            "kk":"CAN",
+            "ru":"CAN",
+            "en":"CAN"
+        },
+        "title2":{
+            "kk":"Контактісіз can шинасын оқу құралы",
+            "ru":"Бесконтактный считыватель CAN-шины",
+            "en":"Contactless CAN Bus Reader"
+        },
+        "content":{
+            "kk":"кат. №1125760819. Производит чтение данных CAN и передает их беспроводным методом.",
+            "ru":"кат. №1125760819. Производит чтение данных CAN и передает их беспроводным методом.",
+            "en":"cat. №1125760819. Производит чтение данных CAN и передает их беспроводным методом."
+        },
+        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "urlType":"_blank",
+        "img":"/images/equipment/bek/list/can.webp"
+    },
+    {
+        "key":"dut-bek",
+        "title1":{
+            "kk":"ДУТ-БЕК",
+            "ru":"ДУТ-БЕК",
+            "en":"DUT-BEK"
+        },
+        "title2":{
+            "kk":"Сыйымдылық Отын Деңгейінің Сенсоры",
+            "ru":"Емкостный Датчик Уровня Топлива",
+            "en":"Capacitive Fuel Level Sensor"
+        },
+        "content":{
+            "kk":"кат. №1300742315. ДУТ автомобильдер мен стационарлық қондырғылардың цистерналарындағы жанармай көлемін дәл өлшеуге арналған.",
+            "ru":"кат. №1300742315. ДУТ предназначен для точного измерения объема топлива в баках автомобилей и стационарных агрегатов.",
+            "en":"cat. №1300742315. The DUT is designed to accurately measure the volume of fuel in the tanks of cars and stationary units."
+        },
+        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "urlType":"_blank",
+        "img":"/images/equipment/bek/list/dut-bek.webp"
+    },
+    {
+        "key":"avk",
+        "title1":{
+            "kk":"Кожух-Терминал",
+            "ru":"Кожух-Терминал",
+            "en":"Kozhuh-Terminal"
+        },
+        "title2":{
+            "kk":"Вандалға қарсы терминал корпусы",
+            "ru":"Антивандальный кожух терминала",
+            "en":"Vandal-proof terminal casing"
+        },
+        "content":{
+            "kk":"кат. №1200720713. Деректерді оқу терминалын сыртқы зақымданудан қорғауға арналған.",
+            "ru":"кат. №1200720713. Предназначен для защиты терминала считывания данных от внешних повреждений.",
+            "en":"cat. №1200720713. Designed to protect the data reading terminal from external damage."
+        },
+        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "urlType":"_blank",
+        "img":"/images/equipment/bek/list/avk.webp"
+    },
+    {
+        "key":"perforation",
+        "title1":{
+            "kk":"Соққы сағатының сенсоры",
+            "ru":"Датчик ударочасов",
+            "en":"Shock sensor"
+        },
+        "title2":{
+            "kk":"",
+            "ru":"",
+            "en":""
+        },
+        "content":{
+            "kk":"кат. №0203542574. Бұрғылау қондырғыларында перфоратордың (жебенің) уақытын оқуға қызмет етеді",
+            "ru":"кат. №0203542574. Служит для считывания наработки времени перфоратора (стрелы) на буровых установках",
+            "en":"cat. №0203542574. It is used to read the operating time of the drill (boom) on drilling rigs"
+        },
+        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "urlType":"_blank",
+        "img":"/images/equipment/bek/list/perforation.webp"
+    },
+    {
+        "key":"akd",
+        "title1":{
+            "kk":"Кожух-ДУТ",
+            "ru":"Кожух-ДУТ",
+            "en":"Kozhuh-DUT"
+        },
+        "title2":{
+            "kk":"Үрлеуге арналған вандалға қарсы корпус",
+            "ru":"Антивандальный кожух для ДУТ",
+            "en":"Vandal-proof casing for DUT"
+        },
+        "content":{
+            "kk":"кат. №1300242183. ДУТ сыртқы механикалық зақымданудан қорғауға арналған",
+            "ru":"кат. №1300242183. Предназначен для защиты ДУТ-ов от внешних механических повреждений",
+            "en":"cat. №1300242183. Designed to protect the units from external mechanical damage"
+        },
+        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "urlType":"_blank",
+        "img":"/images/equipment/bek/list/akd.webp"
+    }
+]

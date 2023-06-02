@@ -1,0 +1,24 @@
+{
+    "name":{
+        "kk":"ЖШС «Business Engineering Kazakhstan»",
+        "ru":"ТОО «Business Engineering Kazakhstan»",
+        "en":"LLP «Business Engineering Kazakhstan»"
+    },
+    "content":{
+        "kk":"Business Engineering Kazakhstan компаниясы көлік құралдарының мониторингі бойынша жобаларды сәтті енгізеді, сондай-ақ 2012 жылдан бастап техникалық сүйемелдеуді қамтамасыз етеді. Осы кезеңде Компания көлікті бақылау жүйелерімен үлкен тәжірибе жинақтады. Біздің компанияның мақсаты-тұтынушыларымыздың барлық мәселелерін шешу.",
+        "ru":"Компания Business Engineering Kazakhstan успешно внедряет проекты по мониторингу транспортных средств, а также обеспечивает техническое сопровождение с 2012 года. За этот период Компания накопила большой опыт работы с системами мониторинга транспорта. Цель нашей компании решать всевозможные задачи наших Заказчиков.",
+        "en":"Business Engineering Kazakhstan has been successfully implementing vehicle monitoring projects, as well as providing technical support since 2012. During this period, the Company has accumulated extensive experience working with transport monitoring systems. The goal of our company is to solve all kinds of problems of our customers."
+    },
+    "shortName":"BEK",
+    "phone":"+7 (7212) 51-05-97",
+    "phoneShort":"+77212510597",
+    "email":"info@bekz.kz",
+    "location":{
+        "kk":"Қарағанды қ., Қазыбек Нұржанов к-сі, 36/1 үй",
+        "ru":"г. Караганда, ул. Казыбек Нуржанов, дом 36/1",
+        "en":"Karaganda city, Kazybek Nurzhanov str., house 36/1"
+    },
+    "locationURL":"https://go.2gis.com/6mqsz",
+    "defaultLanguage":"ru",
+    "languageSupport":["kk","ru","en"]
+}

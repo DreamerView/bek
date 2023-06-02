@@ -1,0 +1,107 @@
+[
+    {
+        "key":"escort-td",
+        "title1":{
+            "kk":"Эскорт ТД",
+            "ru":"Эскорт ТД",
+            "en":"Escort TD"
+        },
+        "title2":{
+            "kk":"Жанармай Деңгейінің Сенсоры",
+            "ru":"Датчик Уровня Топлива",
+            "en":"Fuel Level Sensor"
+        },
+        "content":{
+            "kk":"Жанармай деңгейінің сыйымдылық сенсоры қарапайым және оңай жұмыс істейді. Құрылғы ең көп таралған 2 RS-485 режимінде жұмыс істейді (деректерді автоматты түрде беру мүмкіндігін қоса) және жиілік.",
+            "ru":"Емкостной датчик уровня топлива простой и удобный в эксплуатации. Устройство работает в 2-х наиболее распространенных режимах RS-485 (включая возможность автоматической выдачи данных) и частотный.",
+            "en":"The capacitive fuel level sensor is simple and easy to operate. The device operates in 2 of the most common RS-485 modes (including the possibility of automatic data output) and frequency."
+        },
+        "url":"https://www.fmeter.ru/produktsiya/datchik-urovnja-topliva/eskort-td-150/#active",
+        "urlType":"_blank",
+        "img":"/images/equipment/escort/list/escort-td.webp"
+    },
+    {
+        "key":"du-180",
+        "title1":{
+            "kk":"ДУ-180",
+            "ru":"ДУ-180",
+            "en":"DU-180"
+        },
+        "title2":{
+            "kk":"Бұрыш Сенсоры",
+            "ru":"Датчик Угла Наклона",
+            "en":"Tilt Angle Sensor"
+        },
+        "content":{
+            "kk":"ДУ-180-көлденең оське қатысты көлбеу бұрышының өзгеру күйін үздіксіз бақылауды қамтамасыз ететін өлшеу құрылғысы.",
+            "ru":"ДУ-180 - это измерительное устройство, обеспечивающее непрерывный контроль за состоянием изменения угла наклона относительно горизонтальной оси.",
+            "en":"The DU-180 is a measuring device that provides continuous monitoring of the state of change in the angle of inclination relative to the horizontal axis."
+        },
+        "url":"https://www.fmeter.ru/produktsiya/datchik-ugla-naklona/jeskort-DU-180/#active",
+        "urlType":"_blank",
+        "img":"/images/equipment/escort/list/du-180.webp"
+    },
+    {
+        "key":"db-2",
+        "title1":{
+            "kk":"ДБ-2",
+            "ru":"ДБ-2",
+            "en":"DB-2"
+        },
+        "title2":{
+            "kk":"Сусымалы Өнім Деңгейінің Сенсоры",
+            "ru":"Датчик Уровня Сыпучих Продуктов",
+            "en":"Bulk Product Level Sensor"
+        },
+        "content":{
+            "kk":"ДБ-2 модификацияланған отын деңгейінің сенсоры болып табылады және сыйымдылықты толтыру динамикасын бақылауға мүмкіндік береді",
+            "ru":"ДБ-2 представляет собой модифицированный датчик уровня топлива и позволяет вести наблюдение за динамикой наполнения емкости",
+            "en":"DB-2 is a modified fuel level sensor and allows you to monitor the dynamics of filling the tank"
+        },
+        "url":"https://www.fmeter.ru/produktsiya/datchik-urovnja-sypuchih-produktov/jeskort-DB-2/#active",
+        "urlType":"_blank",
+        "img":"/images/equipment/escort/list/db-2.webp"
+    },
+    {
+        "key":"escort-i4",
+        "title1":{
+            "kk":"Эскорт-И4",
+            "ru":"Эскорт-И4",
+            "en":"Escort-I4"
+        },
+        "title2":{
+            "kk":"Жанармай Деңгейінің Сенсорлық Индикаторы",
+            "ru":"Индикатор Датчиков Уровня Топлива",
+            "en":"Fuel Level Sensor Indicator"
+        },
+        "content":{
+            "kk":"И-4 сандық индикаторы жанармай багындағы нақты деңгейді көрсетуге арналған және оны қосқыш ретінде пайдалануға болады.",
+            "ru":"Цифровой индикатор И-4 предназначен для отображения фактического уровня в топливном баке и может использоваться в качестве сумматора.",
+            "en":"The I-4 digital indicator is designed to display the actual level in the fuel tank and can be used as an adder."
+        },
+        "url":"https://radioterminal.ru/katalog/gps-glonass-monitoring/uchet-topliva/eskort-i4",
+        "urlType":"_blank",
+        "img":"/images/equipment/escort/list/escort-i4.webp"
+    },
+    {
+        "key":"dgv-200",
+        "title1":{
+            "kk":"ДГВ-200",
+            "ru":"ДГВ-200",
+            "en":"DGV-200"
+        },
+        "title2":{
+            "kk":"Жақындық Сенсоры Ультрадыбыстық",
+            "ru":"Датчик Приближения Ультразвуковой",
+            "en":"Ultrasonic Proximity Sensor"
+        },
+        "content":{
+            "kk":"ДГВ 200 ультрадыбыстық Жақындық сенсоры-бұл объектінің нақты қашықтығын анықтайтын өлшеу құралы.",
+            "ru":"Ультразвуковой датчик приближения ДГВ 200 – это измерительное устройство, которое определяет точное расстояние до объекта.",
+            "en":"The ultrasonic proximity sensor DGV 200 is a measuring device that determines the exact distance to an object."
+        },
+        "url":"https://www.fmeter.ru/produktsiya/ultrazvukovoj-datchik-priblizhenija/jeskort-DGV-200/#active",
+        "urlType":"_blank",
+        "img":"/images/equipment/escort/list/dgv-200.webp"
+    }
+]

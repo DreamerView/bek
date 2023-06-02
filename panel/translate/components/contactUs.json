@@ -1,0 +1,73 @@
+{
+    "title1":{
+        "kk":"Сұрақтар бар ма?",
+        "ru":"Есть вопросы?",
+        "en":"Any questions?"
+    },
+    "list":[
+        {
+            "content":{
+                "kk":"Дүй-Жұм – 8:00-17:00",
+                "ru":"Пн–Пп от 8:00 – 17:00",
+                "en":"Mon–Fri from 8:00 – 17:00"
+            }
+        },
+        {
+            "content":{
+                "kk":"Сенбі 8:00 – 12:00",
+                "ru":"Сб от 8:00 – 12:00",
+                "en":"Sat from 8:00 – 12:00"
+            }
+        },
+        {
+            "content":{
+                "kk":"Жек - демалыс",
+                "ru":"Вc – выходной",
+                "en":"Sun – day off"
+            }
+        }
+    ],
+    "title2":{
+        "kk":"Жиі Қойылатын Сұрақтар",
+        "ru":"Часто Задаваемые Вопросы",
+        "en":"Frequently Asked Questions"
+    },
+    "details":[
+        {
+            "title":{
+                "kk":"Жабдықтың құны?",
+                "ru":"Стоимость оборудования?",
+                "en":"The cost of equipment?"
+            },
+            "content":{
+                "kk":"Жабдықтың құны тапсырыс берушінің міндетіне және оны шешу үшін жабдықты таңдауға байланысты.",
+                "ru":"Стоимость оборудования зависит от поставленной задачи заказчика и подбора оборудования для ее решения.",
+                "en":"The cost of the equipment depends on the customer's task and the selection of equipment for its solution."
+            }
+        },
+        {
+            "title":{
+                "kk":"ОШБЖ жобасының тиімділігі қандай?",
+                "ru":"Какова эффективность проекта СКРТ?",
+                "en":"What is the effectiveness of the FCMS project?"
+            },
+            "content":{
+                "kk":"Бұл жобаны іске асырудың алғашқы әсерін аналитикалық есептерді ұсынудың дәлдігіне байланысты оны бір аптадан кейін алуға болады.",
+                "ru":"Первый эффект внедрения данного проекта можно получить уже через неделю его эксплуатации, благодаря точности предоставления аналитических отчетов.",
+                "en":"The first effect of the implementation of this project can be obtained after a week of its operation, thanks to the accuracy of providing analytical reports."
+            }
+        },
+        {
+            "title":{
+                "kk":"Егер байланыс болмаса, жүйе қалай жұмыс істейді?",
+                "ru":"Как работает система если отсутствует связь?",
+                "en":"How does the system work if there is no connection?"
+            },
+            "content":{
+                "kk":"Біздің жабдық сізге ақпаратты 2 аптадан астам уақыт бойы жазуға мүмкіндік береді және бірінші рет сәтті қосылған кезде оны серверге жібереді",
+                "ru":"Наше оборудование позволяет записывать в себя информацию более 2-х недель, и при первом удачном подключении передает его на сервер",
+                "en":"Our equipment allows you to record information for more than 2 weeks, and at the first successful connection transmits it to the server"
+            }
+        }
+    ]
+}

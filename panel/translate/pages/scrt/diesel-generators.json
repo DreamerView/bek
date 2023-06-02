@@ -1,0 +1,166 @@
+{
+    "title1":{
+        "kk":"Дизельді генераторларға арналған шешім",
+        "ru":"Решение для нефтяных объектов",
+        "en":"Solution for diesel generators"
+    },
+    "content":[
+        {
+            "text":{
+                "kk":"Дизельдік генераторлардағы отын шығынын бақылау операторға жанармайдың уақтылы жанармай құюын жоспарлауға, сондай-ақ резервуар мен жанармай желісінен жанармайдың ұрлануын анықтауға және алдын алуға көмектеседі.",
+                "ru":"Контроль расхода топлива на дизельных генераторах помогает оператору планировать своевременную дозаправку топлива, а также определять и предотвращать хищения топлива из бака и топливной магистрали.",
+                "en":"Monitoring of fuel consumption on diesel generators helps the operator to plan timely refueling of fuel, as well as to identify and prevent theft of fuel from the tank and fuel line."
+            }
+        }
+    ],
+    "solutions":[
+        {
+            "image":"/images/icons/hiking.svg",
+            "content":{
+                "kk":"Жанармай ұрлаудың алдын алу",
+                "ru":"Предотвращения хищения топлива",
+                "en":"Preventing fuel theft"
+            }
+        },
+        {
+            "image":"/images/icons/local_gas_station.svg",
+            "content":{
+                "kk":"Үздіксіз отын беру",
+                "ru":"Бесперебойное подача топлива",
+                "en":"Uninterrupted fuel supply"
+            }
+        },
+        {
+            "image":"/images/icons/cast.svg",
+            "content":{
+                "kk":"Генератордың жұмысын бақылау",
+                "ru":"Мониторинг работы генератора",
+                "en":"Monitoring of generator operation"
+            }
+        },
+        {
+            "image":"/images/icons/info_outline.svg",
+            "content":{
+                "kk":"Отын қалдығы",
+                "ru":"Остаток топлива",
+                "en":"Remaining fuel"
+            }
+        }
+    ],
+    "details":[
+        {
+            "title":{
+                "kk":"Генератордың шығынын бақылау",
+                "ru":"Контроль расхода генератора",
+                "en":"Generator flow control"
+            },
+            "image":"/images/skrt/pages/diesel-1.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Дизель генераторының нақты отын шығынын есепке алу;",
+                        "ru":"Учет фактического расхода топлива дизельного генератора;",
+                        "en":"Accounting for the actual fuel consumption of a diesel generator;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармай ұрлауды анықтау және алдын алу;",
+                        "ru":"Выявление и предотвращение хищений топлива;",
+                        "en":"Detection and prevention of fuel theft;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Қозғалтқыштың нақты жұмыс уақытын режимдерде есепке алу (бастапқы, оңтайлы, толық жүктеме);",
+                        "ru":"Учет фактического времени работы двигателя в режимах (стартовый, оптимальный, полной загрузки);",
+                        "en":"Accounting for the actual engine operating time in the modes (starting, optimal, full load);"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Нақты уақыттағы бақылау;",
+                        "ru":"Мониторинг в реальном времени;",
+                        "en":"Real-time monitoring;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Көрсеткіштерді «алдаудан» қорғау, араласу туралы ескерту.",
+                        "ru":"Защита от «накрутки» показаний, оповещение о вмешательстве.",
+                        "en":"Protection against «cheating» of indications, notification of interference."
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Резервуардағы отынды бақылау",
+                "ru":"Контроль топлива в баке",
+                "en":"Fuel monitoring in the tank"
+            },
+            "image":"/images/skrt/pages/diesel-2.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Резервуардағы отынның нақты көлемін бақылау",
+                        "ru":"Контроль реального объема топлива в баке",
+                        "en":"Monitoring of the actual volume of fuel in the tank"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Құю мен ағызуды бақылау",
+                        "ru":"Контроль заправок и сливов",
+                        "en":"Control of refills and drains"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Резервуардан жанармай ұрлауды анықтау және алдын алу",
+                        "ru":"Выявление и предотвращение хищений топлива из бака",
+                        "en":"Detection and prevention of fuel theft from the tank"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Нақты уақыттағы деректерді беру",
+                        "ru":"Передача данных в реальном времени",
+                        "en":"Real-time data transmission"
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Автономды шешімStand-alone solution",
+                "ru":"Автономное решение",
+                "en":"Stand-alone solution"
+            },
+            "image":"/images/skrt/pages/diesel-3.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Дизель генераторының нақты отын шығынын есепке алу;",
+                        "ru":"Учет фактического расхода топлива дизельного генератора;",
+                        "en":"Accounting for the actual fuel consumption of a diesel generator;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармай ұрлауды анықтау және алдын алу;",
+                        "ru":"Выявление и предотвращение хищений топлива;",
+                        "en":"Detection and prevention of fuel theft;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Қозғалтқыштың нақты жұмыс уақытын режимдерде есепке алу (бастапқы, оңтайлы, толық жүктеме);",
+                        "ru":"Учет фактического времени работы двигателя в режимах (стартовый, оптимальный, полной загрузки);",
+                        "en":"Accounting for the actual engine operating time in the modes (starting, optimal, full load);"
+                    }
+                }
+            ]
+        }
+    ]
+}

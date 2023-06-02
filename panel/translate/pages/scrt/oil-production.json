@@ -1,0 +1,51 @@
+{
+    "title1":{
+        "kk":"Мұнай объектілеріне арналған шешім",
+        "ru":"Решение для нефтяных объектов",
+        "en":"Solution for oil facilities"
+    },
+    "content":[
+        {
+            "text":{
+                "kk":"Дизельдік генераторлардағы отын шығынын бақылау операторға жанармайдың уақтылы жанармай құюын жоспарлауға, сондай-ақ резервуар мен жанармай желісінен жанармайдың ұрлануын анықтауға және алдын алуға көмектеседі.",
+                "ru":"Контроль расхода топлива на дизельных генераторах помогает оператору планировать своевременную дозаправку топлива, а также определять и предотвращать хищения топлива из бака и топливной магистрали.",
+                "en":"Monitoring of fuel consumption on diesel generators helps the operator to plan timely refueling of fuel, as well as to identify and prevent theft of fuel from the tank and fuel line."
+            }
+        }
+    ],
+    "solutions":[
+        {
+            "image":"/images/icons/hiking.svg",
+            "content":{
+                "kk":"Жанармай ұрлаудың алдын алу",
+                "ru":"Предотвращения хищения топлива",
+                "en":"Preventing fuel theft"
+            }
+        },
+        {
+            "image":"/images/icons/handyman.svg",
+            "content":{
+                "kk":"Жабдықтың тоқтап қалуын болдырмау",
+                "ru":"Предотвращение простоя оборудования",
+                "en":"Preventing equipment downtime"
+            }
+        },
+        {
+            "image":"/images/icons/timer.svg",
+            "content":{
+                "kk":"Әр түрлі жұмыс режимдеріндегі уақытты есепке алу",
+                "ru":"Учет времени в различных режимах работы",
+                "en":"Time accounting in various modes of operation"
+            }
+        },
+        {
+            "image":"/images/icons/cast.svg",
+            "content":{
+                "kk":"Жұмыс параметрлерін қашықтан бақылау",
+                "ru":"Удаленный мониторинг параметров работы",
+                "en":"Remote monitoring of operation parameters"
+            }
+        }
+    ],
+    "solveImg":"/images/skrt/pages/oil.webp"
+}

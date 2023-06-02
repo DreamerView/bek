@@ -1,0 +1,44 @@
+[
+    {
+        "title":{
+            "kk":"Жанармай шығынын бақылау жүйесі",
+            "ru":"Система контроля расхода топлива",
+            "en":"Fuel consumption monitoring system"
+        },
+        "content":{
+            "kk":"Күрделі машиналарға арналған дайын телематикалық шешімдер",
+            "ru":"Готовые решения телематики сложных машин",
+            "en":"Ready-made telematics solutions for complex machines"
+        },
+        "image":"/images/stock/digital.webp",
+        "url":"/skrt"
+    },
+    {
+        "title": {
+            "kk":"Сенімді темір",
+            "ru":"Надежное железо",
+            "en":"Reliable hardware"
+        },
+        "content":{
+            "kk":"Жоғары сапалы және пайдалану оңай",
+            "ru":"Выскокачественное и простое в эксплуатаций",
+            "en":"High-speed and simple operation"
+        },
+        "image":"/images/stock/device.webp",
+        "url":"/documents"
+    },
+    {
+        "title":{
+            "kk":"Бірегей шешім керек пе?",
+            "ru":"Нужно уникальное решение?",
+            "en":"Need a unique solution?"
+        },
+        "content":{
+            "kk":"Бізге хабарласыңыз және кеңес алыңыз",
+            "ru":"Свяжитесь с нами и получите консультацию",
+            "en":"Contact us and get a consultation"
+        },
+        "image":"/images/stock/business.webp",
+        "url":"/contact"
+    }
+]

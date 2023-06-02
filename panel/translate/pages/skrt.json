@@ -1,0 +1,22 @@
+{
+    "title":{
+        "kk":"ОШБЖ шешімдері",
+        "ru":"Решения СКРТ",
+        "en":"FCMS Solutions"
+    },
+    "content":{
+        "kk":"Отын шығынын бақылау жүйесі (ОШБЖ) отынның тиімді есебін орнатуға, отын шығынының нормаларын тексеруге мүмкіндік береді. Жанармай деңгейін бақылау резервуардан ұрлауды (ағызуды), жанармай құю станцияларының чектерін манипуляциялауды болдырмауға мүмкіндік береді.",
+        "ru":"Система контроля расхода топлива (СКРТ) позволяет наладить эффективный учет топлива, проверить нормы расхода топлива. Контроль уровня топлива позволяет избежать хищений (сливов) из бака, манипуляций с чеками заправочных станций.",
+        "en":"The fuel consumption monitoring system (FCMS) allows you to establish effective fuel accounting, check fuel consumption rates. Fuel level control allows you to avoid theft (draining) from the tank, manipulations with receipts of gas stations."
+    },
+    "problems":{
+        "kk":"Шешілетін мәселелер",
+        "ru":"Решаемые проблемы",
+        "en":"Solved problems"
+    },
+    "solutions":{
+        "kk":"Техникалық орындау нұсқалары",
+        "ru":"Варианты технического исполнения",
+        "en":"Variants of technical execution"
+    }
+}

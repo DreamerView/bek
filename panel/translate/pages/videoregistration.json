@@ -1,0 +1,145 @@
+{
+    "title":{
+        "kk":"Бейне тіркеу",
+        "ru":"Видео регистрация",
+        "en":"Video registration"
+    },
+    "title1":{
+        "kk":"Біз сізге ұсынамыз",
+        "ru":"Мы предлагаем вам",
+        "en":"We offer you"
+    },
+    "content1":{
+        "kk":"«Business Engineering Kazakhstan» көлік құралдарының мониторингі жүйесінің бірнеше түрін ұсынады:",
+        "ru":"«Business Engineering Kazakhstan» предлагает несколько типов систем мониторинга транспортных средств:",
+        "en":"«Business Engineering Kazakhstan» offers several types of vehicle monitoring systems:"
+    },
+    "details":[
+        {
+            "title":{
+                "kk":"Шаршауды анықтау жүйесі",
+                "ru":"Система определения усталости",
+                "en":"Fatigue detection system"
+            },
+            "content":[
+                {
+                    "text":{
+                        "kk":"<b>Non-Sleep жүйесі</b> технологиялық көлікті басқарудың қауіпсіздігін қамтамасыз ету жүйелеріне жатады және КО операторына шаршаудың қауіпті дамуы және рульде ұйықтап қалу туралы ескертуге арналған. Бұл жүйені шешудің негізгі міндеті-көлік құралын басқарудың қауіпсіздік деңгейін арттыру.",
+                        "ru":"<b>Система Non-Sleep</b> относится к системам обеспечения безопасности управления технологическим транспортом и предназначена для предупреждения оператора ТС об опасном развитии усталости и засыпании за рулем. Основной задачей для решения данной системы, является повышение уровня безопасности управления ТС.",
+                        "en":"<b>The Non-Sleep system</b> refers to safety management systems for technological transport and is designed to warn the vehicle operator about the dangerous development of fatigue and falling asleep at the wheel. The main task for solving this system is to increase the security level of vehicle management."
+                    }
+                },
+                {
+                    "image":"/images/videoregistration/non-sleep.webp"
+                },
+                {
+                    "text":{
+                        "kk":"<b>Негізгі</b> мүмкіндіктер:",
+                        "ru":"<b>Ключевые</b> возможности:",
+                        "en":"<b>Key</b> features:"
+                    }
+                },
+                {
+                    "ul":[
+                        {
+                            "list":{
+                                "kk":"<b>Адамның көз торынан</b>, бастың, дененің орналасуынан, сондай-ақ бет әлпеті мен оператордың мінез-құлқынан анықталуы;",
+                                "ru":"<b>Обнаружения человека</b> по сетчатке глаза, положение головы, тела, а также по мимике лица и поведению оператора;",
+                                "en":"<b>Detection of a person</b> by the retina of the eye, the position of the head, body, as well as facial expressions and the behavior of the operator;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Көлік жүргізу кезінде</b> бөгде заттарды тану (темекі, құлаққап, ұялы телефон)",
+                                "ru":"<b>Распознавание инородных предметов</b> во время вождения (сигареты, наушники, сотовый телефон)",
+                                "en":"<b>Recognition of foreign objects</b> while driving (cigarettes, headphones, cell phone)"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Жүйенің көзілдірік киген адамдармен</b> жұмыс істеу мүмкіндігі (көру немесе күн қорғанысы үшін).",
+                                "ru":"<b>Возможность работы системы</b> с людьми в очках (для зрения или солнцезащитными).",
+                                "en":"<b>The ability of the system</b> to work with people wearing glasses (for vision or sunglasses)."
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Mindlessness индикаторы</b> бойынша анықтау мүмкіндігі (алаңдаушылық)",
+                                "ru":"<b>Возможность обнаружения</b> по индикатору mindlessness (отвлечение)",
+                                "en":"<b>The ability to detect</b> by the mindlessness indicator (distraction)"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Көрнекі және дыбыстық дабылдың</b> болуы",
+                                "ru":"<b>Наличие визуальной и звуковой</b> сигнализации",
+                                "en":"<b>Presence of visual and audible</b> alarms"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Кенеттен ұйықтап кетуді дәл анықтау,</b> сондай-ақ ақыл-ойдың жоғалмауын және алаңдаушылық жағдайын анықтау",
+                                "ru":"<b>Точное определение внезапного засыпания,</b> а также определение отсутствия потери рассудка и состояния рассеянности",
+                                "en":"<b>The exact definition of sudden falling asleep,</b> as well as the definition of the absence of loss of reason and a state of absent-mindedness"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Жүйе шаршаудың нақты дозасын</b> ажыратады және жалған ескертуді болдырмайды.",
+                                "ru":"<b>Система различает реальную дозу</b> усталости и исключает ложное предупреждение.",
+                                "en":"<b>The system distinguishes between the real dose</b> of fatigue and eliminates a false warning."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image":"/images/videoregistration/keys.webp"
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Көліктегі бейне бақылау",
+                "ru":"Видео наблюдение на транспорте",
+                "en":"Video surveillance on transport"
+            },
+            "content":[
+                {
+                    "text":{
+                        "kk":"<b>Көліктің периметрі бойынша орнатылған камералар</b> “соқыр жерлердің” көрінуін қамтамасыз етеді, осылайша көліктің қауіпсіз қозғалысын қамтамасыз етеді;",
+                        "ru":"<b>Камеры установленные по периметру транспорта</b> обеспечивают обзорность “слепых зон” тем самым, обеспечивают безопасное передвижение транспорта;",
+                        "en":"<b>Cameras installed around the perimeter of the transport</b> provide visibility of the “blind spots” thereby ensuring the safe movement of transport;"
+                    }
+                },
+                {
+                    "ul":[
+                        {
+                            "list":{
+                                "kk":"<b>Артқы көрініс камерасы</b> жақсы көрінуге және кері қозғалысты басқаруға арналған;",
+                                "ru":"<b>Камера заднего вида предназначена</b> для хорошего обзора и контроля движения задним ходом;",
+                                "en":"<b>The rear view camera</b> is designed for a good view and control of reversing;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>қозғалыс барысындағы камера қозғалыс</b> барысында не болып жатқанын бақылауға және көруге, сондай-ақ көліктегі соқыр жерлерді жабуға мүмкіндік береді;",
+                                "ru":"<b>Камера по ходу движения позволяет</b> обеспечить контроль и обзор за происходящим по ходу движения, а также покрытие слепых зон на транспорте; ",
+                                "en":"<b>The camera in the course of movement</b> allows you to monitor and review what is happening in the course of movement, as well as covering blind spots on transport;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Соқыр аймақты жабу камерасы</b> соқыр аймақтың көрінуіне және қауіпсіз қозғалысты қамтамасыз етуге арналған;",
+                                "ru":"<b>Камера покрытия слепой зоны,</b> предназначена для видимости слепой зоны и обеспечения безопасного передвижения;",
+                                "en":"<b>Blind spot coverage camera,</b> designed for blind spot visibility and safe movement;"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image":"/images/videoregistration/videosecurity.webp"
+                }
+            ]
+        }
+    ]
+}

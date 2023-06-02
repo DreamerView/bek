@@ -1,0 +1,128 @@
+{
+    "title1":{
+        "kk":"Күрделі резервуарға арналған жанармай сенсоры",
+        "ru":"Датчик объема топлива для сложного бака",
+        "en":"Fuel volume sensor for a complex tank"
+    },
+    "content":[
+        {
+            "text":{
+                "kk":"Автобустың, трактордың, комбайнның, тиегіштің және басқа да арнайы техниканың жанармай багының күрделі нысаны бар - «қалталар», шығыңқы жерлер, баспалдақтар. Резервуардың күрделі пішіні автотрактор техникасын жаппай өндіруде қолданылатын тұтқалы сенсорды оңай орнатуға мүмкіндік бермейді. Стандартты қалқымалы отын өлшегіштерді «соқыр» аймақтарды азайту үшін тұтқаның ұзындығы мен жүрісі бойынша өзгерту қажет – бұл ұзақ және қымбат процесс, ол тек үлкен өндіріс көлемінде төленеді.",
+                "ru":"Топливный бак автобуса, трактора, комбайна, погрузчика и другой спецтехники имеет сложную форму — «карманы», выступы, ступеньки. Сложная форма бака не позволяет легко установить рычажный датчик, используемый в серийном производстве автотракторной техники. Стандартные поплавковые топливомеры требуется модифицировать по длине и ходу рычага для минимизации «слепых» зон – трудоемкий долгий и затратный процесс, который окупается только при больших объемах производства. ",
+                "en":"The fuel tank of a bus, tractor, combine harvester, loader and other special equipment has a complex shape — «pockets», ledges, steps. The complex shape of the tank does not allow easy installation of the lever sensor used in the mass production of automotive equipment. Standard float fuel meters need to be modified along the length and stroke of the lever to minimize the «blind» zones – a laborious, long and costly process that pays off only with large volumes of production."
+            }
+        },
+        {
+            "text":{
+                "kk":"ДУТ отын деңгейінің сыйымдылық сенсоры немесе т. б. Эскорт-тұтқалы отын сенсорына тиімді балама. ДУТ немесе т. б. Эскорттың қозғалмалы бөліктері жоқ және кез-келген түрдегі цистерналар үшін жарамды, бұл әсіресе автобустар мен автотрактор техникасын шағын өндіруде ыңғайлы.",
+                "ru":"Емкостной датчик уровня топлива DUT или ТД Эскорт — выгодная альтернатива рычажному топливному датчику. DUT или ТД Эскорт не имеет движущихся частей и подходит для баков любой формы, что особенно удобно при мелкосерийном производстве автобусов и автотракторной техники.",
+                "en":"The capacitive fuel level sensor DUT or TD Escort is a profitable alternative to the lever fuel sensor. DUT or TD Escort has no moving parts and is suitable for tanks of any shape, which is especially convenient for small-scale production of buses and automotive equipment."
+            }
+        }
+    ],
+    "solutions":[
+        {
+            "image":"/images/icons/local_gas_station.svg",
+            "content":{
+                "kk":"Бақылау тақтасына сигнал шығаратын резервуардағы отынның нақты қалдығы мен шығынын анықтау.",
+                "ru":"Определение точного остатка и расхода топлива в баке с выводом сигнала на приборную панель.",
+                "en":"Determination of the exact balance and fuel consumption in the tank with a signal output to the dashboard."
+            }
+        },
+        {
+            "image":"/images/icons/track.svg",
+            "content":{
+                "kk":"Қауіпті жүргізу туралы ескерту-кенеттен тежеу, үдеу, бұрылу, жылдамдықты арттыру.",
+                "ru":"Оповещение об опасном вождении – резких торможениях, ускорениях, поворотах, превышении скорости.",
+                "en":"Notification of dangerous driving – sudden braking, acceleration, cornering, speeding."
+            }
+        },
+        {
+            "image":"/images/icons/place.svg",
+            "content":{
+                "kk":"Бақылау нүктелерінің орналасқан жерін, жүру маршрутын және өтуін бақылау.",
+                "ru":"Мониторинг местоположения, маршрута следования и прохождения контрольных точек.",
+                "en":"Monitoring of the location, route and passage of control points."
+            }
+        },
+        {
+            "image":"/images/icons/bus_alert.svg",
+            "content":{
+                "kk":"Оське жүктеме бойынша автобус жүктемесінің мониторингі.",
+                "ru":"Мониторинг загруженности автобуса по нагрузке на ось.",
+                "en":"Monitoring of bus load by axle load."
+            }
+        }
+    ],
+    "details":[
+        {
+            "title":{
+                "kk":"Автокөлікті бақылау",
+                "ru":"Контроль автомобиля",
+                "en":"Vehicle control"
+            },
+            "image":"/images/skrt/pages/auto-1.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Орналасқан жерді бақылау",
+                        "ru":"Контроль местоположения",
+                        "en":"Location control"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Отын шығыны жиынтық және жұмыс режимдері бойынша.",
+                        "ru":"Расход  топлива суммарный и по режимам работы.",
+                        "en":"Total fuel consumption and operating modes."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармайдың нақты мөлшері",
+                        "ru":"Точный объем топлива",
+                        "en":"Exact fuel volume"
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Автобус мониторингі",
+                "ru":"Мониторинг автобуса",
+                "en":"Bus monitoring"
+            },
+            "image":"/images/skrt/pages/auto-2.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Нақты уақыттағы Маршрут.",
+                        "ru":"Маршрут в реальном времени.",
+                        "en":"Real-time route."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Қозғалыс жылдамдығы мен уақыты, тоқтап қалу.",
+                        "ru":"Скорость и время движения, простоя.",
+                        "en":"Speed and travel time, downtime."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Резервуардағы отын көлемі.",
+                        "ru":"Объем топлива в баке.",
+                        "en":"The amount of fuel in the tank."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Бір ауысымға жалпы отын шығыны.",
+                        "ru":"Общий расход топлива за смену.",
+                        "en":"Total fuel consumption per shift."
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title":{
+        "kk":"Біз туралы",
+        "ru":"О нас",
+        "en":"About us"
+    },
+    "content":{
+        "kk":"«Business Engineering Kazakhstan» көлік құралдарының мониторингі жүйелерін әзірлейді, енгізеді және оларға сервистік қызмет көрсетеді. Әрбір Тапсырыс беруші үшін біз стандартты және стандартты емес тапсырмаларды шешуге мүмкіндік беретін жеке жобаны әзірлейміз.",
+        "ru":"«Business Engineering Kazakhstan» разрабатывает, внедряет и оказывает сервисное обслуживание систем мониторинга транспортных средств. Для каждого Заказчика мы разрабатываем индивидуальный проект, который позволяет решить как стандартные так и не стандартные задачи.",
+        "en":"«Business Engineering Kazakhstan» develops, implements and provides maintenance of vehicle monitoring systems. For each Customer, we develop an individual project that allows us to solve both standard and non-standard tasks."
+    },
+    "titlePage":{
+        "kk":"КОМПАНИЯ ТУРАЛЫ",
+        "ru":"О КОМПАНИИ",
+        "en":"ABOUT COMPANY"
+    },
+    "present":[
+        {
+            "img":"/images/icons/goal.svg",
+            "title":{
+                "kk":"<b>Біздің компанияның мақсаты</b> өз бизнесінің кірістілігін арттыру және операциялық шығындарды азайту үшін тапсырыс берушілердің барлық міндеттерін шешу.",
+                "ru":"<b>Цель нашей компании</b> решить всевозможные задачи заказчиков  для повышения прибыльности их бизнеса и снижения операционных затрат.",
+                "en":"<b>The goal of our company</b> is to solve all kinds of customer tasks to increase the profitability of their business and reduce operating costs."
+            }
+        },
+        {
+            "img":"/images/icons/track.svg",
+            "title":{
+                "kk":"<b>Біз жеңіл, жүк және өнеркәсіптік көліктерге</b> арналған шешімдерін ұсынамыз.",
+                "ru":"<b>Мы предлагаем решения</b> для легкового, грузового и индустриального транспорта.",
+                "en":"<b>We offer solutions</b> for passenger, freight and industrial transport."
+            }
+        },
+        {
+            "img":"/images/icons/track.svg",
+            "title":{
+                "kk":"<b>Біздің компанияның қызметкерлері, </b> штат саны 150-ден асатын жерде техникалық сүйемелдеу жүргізіледі, онда жүйемен көбірек жабдықталған",
+                "ru":"<b>Сотрудниками нашей компании,</b> где штат насчитывает более 150 человек, ведется  техническое сопровождение, где системой оснащено более ",
+                "en":"<b>Employees of our company,</b> where the staff consists of more than 150 people, technical support is conducted, where the system is equipped with more than"
+            } 
+        }
+    ]
+}

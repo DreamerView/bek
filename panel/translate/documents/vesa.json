@@ -1,0 +1,23 @@
+[
+    {
+        "key":"truckload",
+        "title1":{
+            "kk":"VESA TRUCKLOAD",
+            "ru":"VESA TRUCKLOAD",
+            "en":"VESA TRUCKLOAD"
+        },
+        "title2":{
+            "kk":"ӨЛШЕУ ЖҮЙЕЛЕРІ",
+            "ru":"СИСТЕМЫ ВЗВЕШИВАНИЯ",
+            "en":"WEIGHING SYSTEMS"
+        },
+        "content":{
+            "kk":"Коммерциялық көлік құралдары телеметриясының кешенді мәселелерін шешуге арналған ашық платформа",
+            "ru":"Открытая платформа для решения комплексных задач телемитрий коммерчиских транспортных средств",
+            "en":"An open platform for solving complex problems of telemetry of commercial vehicles"
+        },
+        "url":"https://vesasystem.ru/",
+        "urlType":"_blank",
+        "img":"/images/equipment/vesa/list/truckload.webp"
+    }
+]

@@ -1,0 +1,37 @@
+{
+    "solutions":[
+        {
+            "image":"/images/icons/hiking.svg",
+            "content":{
+                "kk":"Жанармай ұрлаудың алдын алу",
+                "ru":"Предотвращения хищения топлива",
+                "en":"Preventing fuel theft"
+            }
+        },
+        {
+            "image":"/images/icons/water_drop.svg",
+            "content":{
+                "kk":"Қоймадағы ылғалдылықты бақылау",
+                "ru":"Мониторинг влажности в хранилище",
+                "en":"Humidity monitoring in storage"
+            }
+        },
+        {
+            "image":"/images/icons/handyman.svg",
+            "content":{
+                "kk":"Генератор мен қазандықтың жұмыс уақытын есепке алу",
+                "ru":"Учет времени работы генератора и котла",
+                "en":"Accounting for the operating time of the generator and boiler"
+            }
+        },
+        {
+            "image":"/images/icons/local_gas_station.svg",
+            "content":{
+                "kk":"Құю мен ағызуды бақылау",
+                "ru":"Контроль заправок и сливов",
+                "en":"Control of refills and drains"
+            }
+        }
+    ],
+    "solveImg":"/images/skrt/pages/granary.webp"
+}

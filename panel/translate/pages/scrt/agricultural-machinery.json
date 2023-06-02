@@ -1,0 +1,128 @@
+{
+    "title1":{
+        "kk":"Ауыл шаруашылығы техникасының мониторингі",
+        "ru":"Мониторинг сельскохозяйственной техники",
+        "en":"Monitoring of agricultural machinery"
+    },
+    "content":[
+        {
+            "text":{
+                "kk":"Фермаларда пайдаланылатын тракторлардың, комбайндардың және басқа да ауыл шаруашылығы машиналарының отын шығынын және жұмыс параметрлерін бақылауға арналған кешенді шешім.",
+                "ru":"Комплексное решение для контроля расхода топлива и рабочих параметров тракторов, комбайнов и других сельскохозяйственных машин, эксплуатируемых в  фермерских хозяйствах.",
+                "en":"A comprehensive solution for monitoring fuel consumption and operating parameters of tractors, combines and other agricultural machines operated in farms."
+            }
+        }
+    ],
+    "solutions":[
+        {
+            "image":"/images/icons/hiking.svg",
+            "content":{
+                "kk":"Технологиялық процестерді сақтамау салдарынан пайда болған артық отынды ұрлайды",
+                "ru":"Воруют излишки топлива, образовавшиеся за счет несоблюдения технологических процессов",
+                "en":"They steal excess fuel formed due to non-compliance with technological processes"
+            }
+        },
+        {
+            "image":"/images/icons/track.svg",
+            "content":{
+                "kk":"Жұмыс күні кезінде үшінші тарап жұмыстарын орындайды.",
+                "ru":"Выполняют сторонние работы во время рабочего дня.",
+                "en":"Perform third-party work during the working day."
+            }
+        },
+        {
+            "image":"/images/icons/handyman.svg",
+            "content":{
+                "kk":"Техникалық қызмет көрсетуге немқұрайлы қарайды, бұл техниканың тез тозуына әкеледі.",
+                "ru":"Халатно относятся к проведению техобслуживания, что ведет к ускоренному износу техники.",
+                "en":"Negligent attitude to maintenance, which leads to accelerated wear of equipment."
+            }
+        },
+        {
+            "image":"/images/icons/bus_alert.svg",
+            "content":{
+                "kk":"Үзіліс кезінде қозғалтқышты өшірмеңіз.",
+                "ru":"Оставляют двигатель незаглушенным во время перерывов.",
+                "en":"Leave the engine unplugged during breaks."
+            }
+        }
+    ],
+    "details":[
+        {
+            "title":{
+                "kk":"Тракторды басқару",
+                "ru":"Контроль трактора",
+                "en":"Tractor control"
+            },
+            "image":"/images/skrt/pages/agriculture-1.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Қозғалтқыштың негізгі параметрлері: қысым, температура және техникалық сұйықтықтардың деңгейі.",
+                        "ru":"Основные параметры работы двигателя: давление, температура и уровень технических жидкостей.",
+                        "en":"The main parameters of the engine: pressure, temperature and level of technical fluids."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Отын шығыны жиынтық және жұмыс режимдері бойынша.",
+                        "ru":"Расход  топлива суммарный и по режимам работы.",
+                        "en":"Total fuel consumption and operating modes."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жиынтық жұмыс уақыты және режим бойынша жұмыс уақыты.",
+                        "ru":"Суммарное время работы и время работы по режимам.",
+                        "en":"Total operating time and operating time by modes."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармайдың нақты мөлшері.",
+                        "ru":"Точный объем топлива.",
+                        "en":"The exact amount of fuel."
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Комбайнды бақылау",
+                "ru":"Контроль комбайна",
+                "en":"Combine control"
+            },
+            "image":"/images/skrt/pages/agriculture-2.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Нақты уақыттағы Маршрут.",
+                        "ru":"Маршрут в реальном времени.",
+                        "en":"Real-time route."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Қозғалыс жылдамдығы мен уақыты, тоқтап қалу.",
+                        "ru":"Скорость и время движения, простоя.",
+                        "en":"Speed and travel time, downtime."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Резервуардағы отын көлемі.",
+                        "ru":"Объем топлива в баке.",
+                        "en":"The amount of fuel in the tank."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жұмыс кезеңінде жыртылған жердің жалпы көлемі",
+                        "ru":"Общий объем вспаханной земли за период работы",
+                        "en":"Total amount of plowed land during the period of operation"
+                    }
+                }
+            ]
+        }
+    ]
+}

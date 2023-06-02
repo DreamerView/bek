@@ -1,0 +1,32 @@
+{
+    "selectLanguage":{
+        "kk":"Тілді таңдаңыз",
+        "ru":"Выберите язык",
+        "en":"Select a language"
+    },
+    "languageTitle":{
+        "kk":"Тілді таңдау",
+        "ru":"Выбор языка",
+        "en":"Language selection"
+    },
+    "languageContent":{
+        "kk":"Өзіңіз қалаған тілді таңдаңыз",
+        "ru":"Выберите предпочитаемый вами язык",
+        "en":"Choose your preferred language"
+    },
+    "more":{
+        "kk":"Толығырақ",
+        "ru":"Подробнее",
+        "en":"More"
+    },
+    "search":{
+        "kk":"Іздеу",
+        "ru":"Поиск",
+        "en":"Search"
+    },
+    "equipment":{
+        "kk":"Жабдық",
+        "ru":"Оборудование",
+        "en":"Equipment"
+    }
+}

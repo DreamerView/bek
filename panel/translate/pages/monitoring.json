@@ -1,0 +1,362 @@
+{
+    "title":{
+        "kk":"Көлік мониторингі",
+        "ru":"Мониторинг транспорта",
+        "en":"Transport monitoring"
+    },
+    "content":{
+        "kk":"Көлік мониторингі жүйелері-әртүрлі жағдайларда техниканың пайдаланылуын бақылауға арналған.",
+        "ru":"Системы мониторинга транспорта - предназначены для контроля эксплуатации техники в различных условиях.",
+        "en":"Transport monitoring systems are designed to monitor the operation of equipment in various conditions."
+    },
+    "present":[
+        {
+            "img":"/images/icons/push_pin.svg",
+            "title":{
+                "kk":"<b>Шахталар -</b> GSM желісіне қол жеткізе алмай, жерасты паркін бақылауды жүзеге асыру;",
+                "ru":"<b>Шахты –</b> осуществление контроля подземного парка не имея доступа к сети GSM;",
+                "en":"<b>Mines –</b> control of the underground park without having access to the GSM network;"
+            }
+        },
+        {
+            "img":"/images/icons/push_pin.svg",
+            "title":{
+                "kk":"<b>Мансап –</b> ауыр мансаптық техниканы бақылау;",
+                "ru":"<b>Карьеры –</b> мониторинг тяжелой карьерной техники;",
+                "en":"<b>Careers –</b> monitoring of heavy quarry equipment;"
+            }
+        },
+        {
+            "img":"/images/icons/push_pin.svg",
+            "title":{
+                "kk":"<b>Жеке автопаркі</b> бар өндірістік алаңдар",
+                "ru":"<b>Производственные площадки</b> с личным автопарком;",
+                "en":"<b>Production sites</b> with a private fleet"
+            } 
+        },
+        {
+            "img":"/images/icons/push_pin.svg",
+            "title":{
+                "kk":"<b>Көлік мониторингі жүйесін енгізу кезінде</b> сіз техниканың тиімділігін арттырасыз және автопаркті күтіп ұстауға жоспарланбаған шығындарды азайтасыз.",
+                "ru":"<b>При внедрении систем мониторинга транспорта</b> вы получаете увеличение КПД техники и сокращение незапланированных расходов на содержание автопарка.",
+                "en":"<b>With the introduction of transport monitoring systems</b>, you get an increase in the efficiency of equipment and a reduction in unplanned expenses for the maintenance of the fleet."
+            } 
+        }
+    ],
+    "title1":{
+        "kk":"Біз сізге ұсынамыз",
+        "ru":"Мы предлагаем вам",
+        "en":"We offer you"
+    },
+    "content1":{
+        "kk":"«Business Engineering Kazakhstan» көлік құралдарының мониторингі жүйесінің бірнеше түрін ұсынады:",
+        "ru":"«Business Engineering Kazakhstan» предлагает несколько типов систем мониторинга транспортных средств:",
+        "en":"«Business Engineering Kazakhstan» offers several types of vehicle monitoring systems:"
+    },
+    "details":[
+        {
+            "title":{
+                "kk":"Отын шығынын бақылау жүйесі",
+                "ru":"Система контроля расхода топлива",
+                "en":"Fuel consumption monitoring system"
+            },
+            "content":[
+                {
+                    "text":{
+                        "kk":"<b>ОШБЖ - </b>бұл құрал автокөлік бактарынан дизель отынын төгу фактілерін, жанармай құю фактілерін және жанармай құю мөлшерін анықтауға көмектеседі (бұл компанияның ведомостары мен чектеріндегі тіркеулерді болдырмайды), техниканың әрбір бірлігі бойынша отынның орташа шығынын есепке алуға көмектеседі. Бұл функция жанармай сатып алуды үнемдеуге және жанармай жеткізушілерінің ұрлығы мен тіркемелерін жоюға көмектеседі.",
+                        "ru":"<b>СКРТ - </b>данный инструмент помогает устанавливать факты слива дизтоплива с баков автотранспорта, факты заправок и количества заправленного топлива (что исключает приписки в ведомости и чеках компании), вести учет среднего расхода топлива по каждой единице техники. Данная функция помогает экономить на закупе топлива и искоренении хищений и приписок со стороны поставщиков топлива.",
+                        "en":"<b>FCMS - </b>this tool helps to establish the facts of the discharge of diesel fuel from the tanks of vehicles, the facts of refueling and the amount of refueled fuel (which excludes entries in the company's statement and receipts), keep records of average fuel consumption for each unit of equipment. This function helps to save on the purchase of fuel and the eradication of theft and attribution from fuel suppliers."
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"<b>Жүйенің негізгі мақсаты – </b>кезеңдерде отын шығынын объективті нормалауды қамтамасыз ету:",
+                        "ru":"<b>Основное назначение системы – </b>обеспечение объективного нормирования расхода топлива на этапах:",
+                        "en":"<b>The main purpose of the system is </b>to provide objective rationing of fuel consumption at the stages:"
+                    }
+                },
+                {
+                    "ul":[
+                        {
+                            "list":{
+                                "kk":"қоймаларға жанармай келу;",
+                                "ru":"прихода топлива на склады;",
+                                "en":"arrival of fuel to warehouses;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"көлік құралдарын жабдықтау;",
+                                "ru":"экипировки транспортных средств;",
+                                "en":"equipment of vehicles;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"отын шығыны және техниканы мақсатты пайдалану",
+                                "ru":"расхода топлива и целевое использование техники",
+                                "en":"fuel consumption and targeted use of equipment"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "text":{
+                        "kk":"<b>Жүйе бақылауды жүзеге асыруға</b> мүмкіндік береді:",
+                        "ru":"<b>Система позволяет</b> осуществлять контроль:",
+                        "en":"<b>The system allows</b> you to control:"
+                    }
+                },
+                {
+                    "ul":[
+                        {
+                            "list":{
+                                "kk":"қоймалардағы ағымдағы отын қалдықтары үшін;",
+                                "ru":"за текущими остатками топлива на складах;",
+                                "en":"for current fuel balances in warehouses;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"көлік құралдарының бактарындағы ағымдағы отын қалдықтары үшін;",
+                                "ru":"за текущими остатками топлива в баках транспортных средств;",
+                                "en":"for the current remaining fuel in the tanks of vehicles;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"әр сапарда жанармай шығыны үшін;",
+                                "ru":"за расходом топлива в каждой поездке;",
+                                "en":"monitoring fuel consumption on each trip;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"жанармайдың артық шығыны үшін;",
+                                "ru":"за перерасходом топлива;",
+                                "en":"overspending of fuel;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"техниканы рұқсатсыз пайдалану үшін;",
+                                "ru":"за несанкционированным использованием техники;",
+                                "en":"for unauthorized use of equipment;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"жеткізушілердің жанармай құюына;",
+                                "ru":"за недоливами топлива поставщиками;",
+                                "en":"for fuel shortages by suppliers;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"көлік паркі бойынша жанармай шығыны.",
+                                "ru":"за расходом топлива по всему транспортному парку.",
+                                "en":"monitoring fuel consumption throughout the entire transport fleet."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image":"/images/monitoring/skrt.webp"
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Жанармай багындағы ЖЖМ қозғалысы",
+                "ru":"Движение ГСМ в топливном баке",
+                "en":"Movement of fuel in the fuel tank"
+            },
+            "content":[
+                {
+                    "text":{
+                        "kk":"<b>Жанармай багында орнатылған отын деңгейінің датчиктерінің көмегімен</b> жанармай құюды, ағызуды және белгілі бір уақыт аралығында отынның нақты көлемін көруге болады",
+                        "ru":"<b>С помощью датчиков уровня топлива</b> установленных в топливном баке можно увидеть заправки, сливы и фактический объем топлива на тот или иной период времени",
+                        "en":"<b>With the help of fuel level sensors</b> installed in the fuel tank, you can see refueling, draining and the actual amount of fuel for a particular period of time"
+                    }
+                },
+                {
+                    "image":"/images/monitoring/gsm.webp"
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Қозғалтқыш сағаттарының жұмысын бақылау",
+                "ru":"Контроль наработки моточасов двигателя",
+                "en":"Monitoring of engine operating hours"
+            },
+            "content":[
+                {
+                    "text":{
+                        "kk":"<b>Қозғалтқыш сағаттарының жұмысын бақылау –</b> қозғалтқыштың әртүрлі режимдердегі нақты жұмысын бақылауға көмектеседі. Бұл функция анықтауға көмектеседі:",
+                        "ru":"<b>Контроль наработки моточасов ДВС –</b> помогает контролировать фактическую работу двигателя в разных режимах. Данная функция помогает выявлять:",
+                        "en":"<b>Monitoring of engine operating hours –</b> helps to monitor the actual operation of the engine in different modes. This function helps to identify:"
+                    }
+                },
+                {
+                    "ul":[
+                        {
+                            "list":{
+                                "kk":"Техниканың жалпы тоқтап қалуы;",
+                                "ru":"Общие простои техники;",
+                                "en":"General downtime of equipment;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"Бос тұрған кезде техниканың тоқтап қалуы;",
+                                "ru":"Простои техники на холостом ходу;",
+                                "en":"Idle equipment downtime;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"Қозғалтқыштың қалыпты айналымдағы жұмысы;",
+                                "ru":"Работу двигателя на нормальных оборотах;",
+                                "en":"Engine operation at normal rpm;"
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"Қозғалтқыштың шекті айналымдағы жұмысы;",
+                                "ru":"Работу двигателя на предельных оборотах;",
+                                "en":"Engine operation at maximum rpm;"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "text":{
+                        "kk":"<b>Сондай-ақ, мотоциклдердің нақты есебін жүргізіңіз,</b> нәтижесінде қозғалтқыштың нақты жұмыс істеген мотоциклдері бойынша ТҚК өткізуді жоспарлауға болады, бұл ТҚК өткізу шығындарын қысқартуға мүмкіндік береді, сондай-ақ шығын материалдары мен техниканың негізгі агрегаттарын ауыстыру қажеттілігін растайды.",
+                        "ru":"<b>Также вести фактический подсчет моточасов</b> в следствии чего можно запланировать проведение ТО по фактически отработанным моточасам двигателя что позволяет сократить расходы на проведении ТО, а также подтверждает необходимость замены расходных материалов и основных агрегатов техники.",
+                        "en":"<b>Also, to keep an actual calculation of engine hours,</b> as a result of which it is possible to plan maintenance on the actually spent engine hours, which reduces the cost of maintenance, and also confirms the need to replace consumables and basic equipment units."
+                    }
+                },
+                {
+                    "image":"/images/monitoring/moto.webp"
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Қозғалтқыштың айналу жылдамдығы және ішкі жану қозғалтқышының сағатын басқару",
+                "ru":"Обороты двигателя и контроль моточасов ДВС",
+                "en":"Engine speed and engine hours monitoring"
+            },
+            "content":[
+                {
+                    "text":{
+                        "kk":"<b>Қосылған жабдықта ішкі жану қозғалтқышының айналымы оқылады,</b> бағдарламалық жасақтамада графиктер түрінде көрсетіледі, содан кейін жинақталған мото-сағаттар мен техниканың тоқтап қалуы туралы есеп жасалады.",
+                        "ru":"<b>На подключенном оборудовании считываются обороты ДВС,</b> в программном обеспечении отображаются в виде графиков, после чего формируется отчет по наработанным мото-часам и простоям техники.",
+                        "en":"<b>The engine speed is read on the connected equipment,</b> displayed in the software in the form of graphs, after which a report is generated on the accumulated motorcycle hours and equipment downtime."
+                    }
+                },
+                {
+                    "image":"/images/monitoring/dvs.webp"
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Шинаның қысымын бақылау",
+                "ru":"Контроль давления в шинах",
+                "en":"Tire pressure monitoring"
+            },
+            "content":[
+                {
+                    "text":{
+                        "kk":"<b>Шинаның қысымын бақылаудың СКД жүйесі,</b> орындай отырып шинаның қысымын бақылау, ең алдымен, жүргізуші мен жолаушылардың қауіпсіздігіне қамқорлық жасайды, сонымен қатар жүйе штаттан тыс жағдай туындаған жағдайда жүргізушіні автоматты түрде анықтайды және ескертеді және жағымсыз салдарларды болдырмауға көмектеседі.",
+                        "ru":"<b>СКД – </b>система контроля давления в шинах, выполняя контроль давленияв шинах заботится в первую очередь о безопасности водителя и пассажиров, также система автоматически определит и предупредит водителя в случае возникновения внештатной ситуации и поможет избежать неприятных последствий.",
+                        "en":"<b>TPM – </b>tire pressure monitoring system, performing tire pressure monitoring, primarily cares about the safety of the driver and passengers, also the system will automatically detect and warn the driver in case of an emergency situation and help avoid unpleasant consequences."
+                    }
+                },
+                {
+                    "ul":[
+                        {
+                            "list":{
+                                "kk":"<b>Шиналардың оңтайлы және біркелкі тозуы</b> шинаның максималды жүруін қамтамасыз ететін шинаның біркелкі бөлінген қысымымен қамтамасыз етіледі. Сорылған немесе сорылмаған шиналар жабынмен тамаша жанасуға мүмкіндік бермейді, бұл біркелкі емес тозуға және қызмет ету мерзімінің қысқаруына әкеледі.",
+                                "ru":"<b>Оптимальный и равномерный износ шин,</b> обеспечивается за счет равномерно распределенного давления в шинах, что обеспечивает максимальную ходимость шины. Перекачанные или не докачаные шины не позволяют достичь идеального контакта с покрытием, что приводит к неравномерному износу и сокращению срока службы.",
+                                "en":"<b>Optimal and uniform tire wear</b> is ensured by evenly distributed tire pressure, which ensures maximum tire walking. Over-inflated or under-inflated tires do not allow to achieve perfect contact with the coating, which leads to uneven wear and shortened service life."
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Жүргізушінің көмекшісі ретінде қызмет ете отырып,</b> дөңгелектердің жоғалуын болдырмауға көмектеседі, оларды «құтқаруға» белсенді түрде ықпал етеді.",
+                                "ru":"<b>Выполняя функцию помощника водителя,</b> помогает избежать потерь колес, активным образом способствуя их «спасению».",
+                                "en":"<b>Performing the function of a driver's assistant,</b> it helps to avoid wheel losses, actively contributing to their «salvation»."
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Шинаның қысымын бақылау жағымсыз жағдайларды болдырмауға көмектеседі,</b> жүргізушіге жеткіліксіз немесе шамадан тыс қысымның пайда болуы туралы ескертеді, шинаның жарылу қаупін едәуір азайтады.",
+                                "ru":"<b>Контролируя давление в шинах, поможет избежать неприятных ситуаций,</b> оповещая водителя о возникновении недостаточного либо чрезмерного давления, существенно уменьшая риск взрыва шины.",
+                                "en":"<b>By controlling the tire pressure,</b> it will help to avoid unpleasant situations by notifying the driver of the occurrence of insufficient or excessive pressure, significantly reducing the risk of tire explosion."
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Шинаның қысымын бақылау жүйесінің арқасында - </b>радиалды шиналарды сақтаудың негізгі факторы болып табылатын доңғалақтардың бүйір саңылауларының санын айтарлықтай азайтуға болады.",
+                                "ru":"<b>Благодаря системе контроля давления в шинах — </b>можно существенно снизить количество боковых пробоев колес, что является ключевым фактором спасения радиальных шин.",
+                                "en":"<b>Thanks to the tire pressure monitoring system, </b>it is possible to significantly reduce the number of side wheel breakdowns, which is a key factor in saving radial tires."
+                            }
+                        },
+                        {
+                            "list":{
+                                "kk":"<b>Шинаның оңтайлы ұсынылған қысымын ұстап тұру,</b> осылайша доңғалақтың айналу кедергісін төмендету және авторезинаның нормативтік ілінісу коэффициентіне қол жеткізу арқылы жанармай үнемдеуге орта есеппен 1-ден 3% - ға дейін қол жеткізуге болады.",
+                                "ru":"<b>Поддерживая оптимальное рекомендуемое давление в шинах,</b> тем самым снижая сопротивление качению колеса и достигая нормативного коэффициента сцепления авторезины с дорогой, можно достигнуть экономии топлива в среднем от 1 до 3 %.",
+                                "en":"<b>By maintaining the optimal recommended tire pressure,</b> thereby reducing the rolling resistance of the wheel and achieving the normative coefficient of adhesion of the rubber to the road, it is possible to achieve fuel economy on average from 1 to 3%."
+                            }
+                        }
+                    ]
+                },
+                {
+                    "image":"/images/monitoring/tire.webp"
+                }
+            ]
+        }
+    ],
+    "title2":{
+        "kk":"Көлік мониторингі жүйесі",
+        "ru":"Система мониторинга транспорта",
+        "en":"Transport monitoring system"
+    },
+    "present1":[
+        {
+            "img":"/images/icons/info_outline.svg",
+            "text":{
+                "kk":"<b>Жоғарыда аталған барлық жүйелерді бақылау –</b> персонал тарапынан қолданылатын техникаға немқұрайлы қарауды анықтауға көмектеседі, бұл саябақты күтіп ұстауға мақсатсыз шығындарға әкеледі.",
+                "ru":"<b>Контроль всех вышеперечисленных систем –</b> помогает выявлять халатное отношение со стороны персонала к используемой технике, что приводит к нецелевым затратам на содержание парка.",
+                "en":"<b>Monitoring of all of the above systems</b> helps to identify negligent attitude on the part of the staff to the equipment used, which leads to inappropriate costs for the maintenance of the park."
+            }
+        },
+        {
+            "img":"/images/icons/team.svg",
+            "text":{
+                "kk":"<b>Біздің команда барлық жүйе деректерін техниканы бақылаудың бірыңғай құралына біріктірді,</b> бұл автопаркті толық бақылау жүйесін құруға көмектесті.",
+                "ru":"<b>Наша команда объединила все данные системы в единый инструмент для мониторинга техники,</b> что помогло создать систему тотального контроля автопарка.",
+                "en":"<b>Our team combined all these systems into a single tool for monitoring equipment,</b> which helped to create a system of total control of the fleet."
+            }
+        },
+        {
+            "img":"/images/icons/push_pin.svg",
+            "text":{
+                "kk":"<b>Сондай-ақ, біздің компаниямыздың өз аналитика бөлімі бар,</b> онда автопарк жұмысы бойынша проблемаларды қысқа мерзімде анықтауға және басшылыққа есептер беруге қабілетті мамандар жұмыс істейді, бұл техниканы қысқа мерзімде басқару бойынша шешімдер қабылдауға мүмкіндік береді.",
+                "ru":"<b>Также наша компания имеет собственный отдел аналитики,</b> в котором работают профессионалы способные выявлять проблемы по работе автопарка в кратчайшие сроки и предоставлять отчеты для руководства, что позволяет принимать решения по управлению техникой в кратчайшие сроки.",
+                "en":"<b>Also, our company has its own analytics department,</b> which employs professionals who are able to identify problems with the operation of the fleet in the shortest possible time and provide reports for management, which allows you to make decisions on the management of equipment in the shortest possible time."
+            }
+        },
+        {
+            "img":"/images/icons/push_pin.svg",
+            "text":{
+                "kk":"<b>Біздің жүйелерді енгізу кезінде сіз тоқтап қалуды,</b> тіркеуді азайту арқылы флоттың тиімділігін арттыра аласыз, сонымен қатар тиімділікті арттыру және техникалық қызмет көрсету мен жөндеу шығындарын азайту арқылы флотты ұстау шығындарын азайта аласыз.",
+                "ru":"<b>При внедрении наших систем Вы сможете увеличить КПД своего автопарка путем уменьшения</b> простоев, приписок, а также сократить расходы на содержание автопарка путем увеличения КПД и сокращения расходов на сервисное обслуживание и ремонт техники.",
+                "en":"<b>With the introduction of our systems, you will be able to increase the efficiency of your fleet by reducing downtime, attributions,</b> as well as reduce the cost of maintaining the fleet by increasing efficiency and reducing the cost of maintenance and repair of equipment."
+            }
+        }
+    ]
+}

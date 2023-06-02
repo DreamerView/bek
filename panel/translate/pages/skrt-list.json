@@ -1,0 +1,58 @@
+[
+    {
+        "key":"special-equipment",
+        "title":{
+            "kk":"Арнайы техника",
+            "ru":"Спецтехника",
+            "en":"Special equipment"
+        }
+    },
+    {
+        "key":"agricultural-machinery",
+        "title":{
+            "kk":"Ауыл шаруашылығы техникасы",
+            "ru":"Сельхозтехника",
+            "en":"Agricultural machinery"
+        }
+    },
+    {
+        "key":"railway-equipment",
+        "title":{
+            "kk":"Теміржол Техникасы",
+            "ru":"Железнодорожняя Техника",
+            "en":"Railway Equipment"
+        }
+    },
+    {
+        "key":"granary",
+        "title":{
+            "kk":"Астық қоймасы",
+            "ru":"Зернохранилище",
+            "en":"Granary"
+        }
+    },
+    {
+        "key":"auto-industry",
+        "title":{
+            "kk":"Автоөнеркәсіп",
+            "ru":"Автопром",
+            "en":"Automotive industry"
+        }
+    },
+    {
+        "key":"diesel-generators",
+        "title":{
+            "kk":"Дизель Генераторлары",
+            "ru":"Дизельный Генераторы",
+            "en":"Diesel Generators"
+        }
+    },
+    {
+        "key":"oil-production",
+        "title":{
+            "kk":"Мұнай өндіру",
+            "ru":"Нефтедобыча",
+            "en":"Oil production"
+        }
+    }
+]

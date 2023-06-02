@@ -1,0 +1,23 @@
+[
+    {
+        "key":"azimut-5_1",
+        "title1":{
+            "kk":"Азимут 5.1 PRO RTS",
+            "ru":"Азимут 5.1 PRO RTS",
+            "en":"Azimuth 5.1 PRO RTS"
+        },
+        "title2":{
+            "kk":"ГЛОНАСС+GPS Трекер",
+            "ru":"ГЛОНАСС+GPS Трекер",
+            "en":"GLONASS+GPS Tracker"
+        },
+        "content":{
+            "kk":"Кең телеметриялық мүмкіндіктері бар, көптеген сенсорлар мен құрылғыларды қолдайтын сенімді автомобиль ГЛОНАСС+GPS контроллерлерінің отбасы.",
+            "ru":"Семейство надежных автомобильных ГЛОНАСС+GPS контроллеров с широкими телеметрическими возможностями, поддержкой большого количества датчиков и устройств.",
+            "en":"A family of reliable automotive GLONASS+GPS controllers with extensive telemetry capabilities, support for a large number of sensors and devices."
+        },
+        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "urlType":"_blank",
+        "img":"/images/equipment/pateoc/list/azimut-5_1.webp"
+    }
+]

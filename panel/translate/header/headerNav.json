@@ -1,0 +1,58 @@
+[
+    {
+        "title":{
+            "kk":"Басты бет",
+            "ru":"Главная",
+            "en":"Home"
+        },
+        "url":"/"
+    },
+    {
+        "title":{
+            "kk":"Біз туралы",
+            "ru":"О нас",
+            "en":"About us"
+        },
+        "url":"/about-us/"
+    },
+    {
+        "title":{
+            "kk":"ОШБЖ шешімдері",
+            "ru":"Решения СКРТ",
+            "en":"FCMS Solutions"
+        },
+        "url":"/skrt/"
+    },
+    {
+        "title":{
+            "kk":"Бейне тіркеу",
+            "ru":"Видео регистрация",
+            "en":"Video registration"
+        },
+        "url":"/videoregistration/"
+    },
+    {
+        "title":{
+            "kk":"Көлік мониторингі",
+            "ru":"Мониторинг транспорта",
+            "en":"Transport monitoring"
+        },
+        "url":"/monitoring/"
+    },
+    {
+        "title":{
+            "kk":"Жабдық",
+            "ru":"Оборудование",
+            "en":"Equipment"
+        },
+        "url":"/documents/"
+    },
+    {
+        "title":{
+            "kk":"Байланыс",
+            "ru":"Контакты",
+            "en":"Contact"
+        },
+        "url":"/contact/"
+    }
+]

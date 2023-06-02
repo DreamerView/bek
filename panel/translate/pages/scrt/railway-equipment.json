@@ -1,0 +1,58 @@
+{
+    "title1":{
+        "kk":"Теміржол көлігінің шешімі",
+        "ru":"Решение для железно-дорожного транспорта",
+        "en":"Solution for railway transport"
+    },
+    "content":[
+        {
+            "text":{
+                "kk":"Теміржол техникасының жұмыс параметрлерін бақылау отын шығынын реттеуге, резервуардан және/немесе жанармай желілерінен жанармай ұрлануын болдырмауға, өнімсіз шығынды азайтуға, сондай-ақ жанармай құюды дұрыс жоспарлауға көмектеседі.",
+                "ru":"Контроль рабочих параметров железнодорожной техники помогает скорректировать норму потребления топлива, предотвратить хищение топлива из бака и/или топливных магистралей, сократить непроизводительный расход, а также правильно спланировать дозаправки.",
+                "en":"Monitoring the operating parameters of railway equipment helps to adjust the fuel consumption rate, prevent theft of fuel from the tank and/or fuel lines, reduce unproductive consumption, as well as properly plan refueling."
+            }
+        },
+        {
+            "text":{
+                "kk":"Қозғалтқыштың (қозғалтқыштардың) жарамдылығын қашықтықтан мониторингтеу отын сүзгілеріне және «тозу бойынша» басқа Шығыс элементтеріне — пайдалану режимдеріне сәйкес техникалық қызмет көрсетуді және ауыстыруды жүргізуге мүмкіндік береді",
+                "ru":"Дистанционный мониторинг исправности двигателя (двигателей) позволяет проводить техобслуживание и замену топливных фильтров и других расходных элементов «по износу» — в соответствие с режимами эксплуатации",
+                "en":"Remote monitoring of the serviceability of the engine(s) allows maintenance and replacement of fuel filters and other consumable elements «by wear» — in accordance with operating modes"
+            }
+        }
+    ],
+    "solutions":[
+        {
+            "image":"/images/icons/hiking.svg",
+            "content":{
+                "kk":"Жанармай ұрлаудың алдын алу",
+                "ru":"Предотвращения хищения топлива",
+                "en":"Preventing fuel theft"
+            }
+        },
+        {
+            "image":"/images/icons/local_gas_station.svg",
+            "content":{
+                "kk":"Бактардағы, жанармай құю және ағызу отынының көлемін бақылау",
+                "ru":"Контроль объема топлива в баках, заправок и сливов.",
+                "en":"Control of fuel volume in tanks, refueling and draining"
+            }
+        },
+        {
+            "image":"/images/icons/timer.svg",
+            "content":{
+                "kk":"Қозғалтқыштардың жұмыс уақытын бақылау",
+                "ru":"Контроль времени работы двигателей",
+                "en":"Engine operating time monitoring"
+            }
+        },
+        {
+            "image":"/images/icons/bus_alert.svg",
+            "content":{
+                "kk":"Қозғалтқыштардың жұмысындағы ақауларды анықтау",
+                "ru":"Выявление неисправностей в работе двигателей",
+                "en":"Detection of engine malfunctions"
+            }
+        }
+    ],
+    "solveImg":"/images/skrt/pages/railway.webp"
+}

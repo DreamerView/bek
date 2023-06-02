@@ -1,0 +1,261 @@
+{
+    "title1":{
+        "kk":"Мансаптық көлік мониторингі жүйесі",
+        "ru":"Система мониторинга карьерного транспорта",
+        "en":"Career transport monitoring system"
+    },
+    "content":[
+        {
+            "text":{
+                "kk":"Карьерлік техниканың жұмыс параметрлерін бақылау отынды тұтынудың жоспарлы нормасын түзетуге, жанармай құюды дұрыс жоспарлауға, өнімсіз шығынды азайтуға, сондай-ақ отын ұрлаудың және арнайы техниканы мақсатсыз пайдаланудың алдын алуға көмектеседі.",
+                "ru":"Контроль рабочих параметров карьерной техники помогает скорректировать плановую норму потребления топлива, правильно спланировать дозаправки, сократить непроизводительный расход, а также предотвратить хищение топлива и нецелевое использование спецтехники.",
+                "en":"Monitoring of the working parameters of quarry equipment helps to adjust the planned fuel consumption rate, properly plan refueling, reduce unproductive consumption, as well as prevent fuel theft and misuse of special equipment."
+            }
+        },
+        {
+            "text":{
+                "kk":"Карьерлік техникаға арналған шешімдер отын шығынын және қозғалтқыштың жұмыс уақытын бақылауға, бактағы отын қалдығын бақылауға, отынды құю және ағызу көлемін анықтауға, тораптардың жарамдылығын қашықтықтан диагностикалауға, техниканы пайдалану режимдерін — жиынтық және жұмыс режимдері бойынша мониторингке арналған «бос жүріс», «оңтайлы жұмыс», «қозғалтқыштың шамадан тыс жүктелуі».",
+                "ru":"Решения для карьерной техники предназначены для контроля расхода топлива и времени работы двигателя, мониторинга остатка топлива в баке, определения объемов заправки и слива топлива, удаленной диагностики исправности узлов, мониторинга режимов эксплуатации техники — совокупного и по режимам работы «холостой ход», «оптимальная работа», «перегрузка двигателя.",
+                "en":"Solutions for quarry equipment are designed to control fuel consumption and engine operating time, monitor the remaining fuel in the tank, determine the volume of refueling and draining fuel, remotely diagnose the serviceability of components, monitor the modes of operation of equipment — cumulative and according to the operating modes «idle», «optimal operation», «engine overload»."
+            }
+        }
+    ],
+    "image":"/images/skrt/pages/special.webp",
+    "details":[
+        {
+            "title":{
+                "kk":"Резервуардағы отынды бақылау",
+                "ru":"Контроль топлива в баке",
+                "en":"Fuel monitoring in the tank"
+            },
+            "title1":{
+                "kk":"Серверге тікелей беруден бактағы отын мониторингі",
+                "ru":"Мониторинг топлива в баке с прямой предачи на сервер",
+                "en":"Monitoring of fuel in the tank with direct transmission to the server"
+            },
+            "image":"/images/skrt/pages/special-1.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Резервуардағы отынның нақты көлемін бақылау;",
+                        "ru":"Контроль реального объема топлива в баке;",
+                        "en":"Monitoring of the actual volume of fuel in the tank;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Құю мен ағызуды бақылау;",
+                        "ru":"Контроль заправок и сливов;",
+                        "en":"Control of refills and drains;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Резервуардан жанармай ұрлауды анықтау және алдын алу;",
+                        "ru":"Выявление и предотвращение хищений топлива из бака;",
+                        "en":"Detection and prevention of fuel theft from the tank;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Нақты уақыттағы деректерді тікелей серверге жіберу;",
+                        "ru":"Передача данных в реальном времени напрямую на сервер;",
+                        "en":"Real-time data transfer directly to the server;"
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Магистральдағы отынды бақылау",
+                "ru":"Контроль топлива в магистрали",
+                "en":"Fuel monitoring in the highway"
+            },
+            "title1":{
+                "kk":"Жанармай шығынын толық бақылау",
+                "ru":"Полный контроль расхода топлива",
+                "en":"Full control of fuel consumption"
+            },
+            "image":"/images/skrt/pages/special-2.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Нақты отын шығынын есепке алу;",
+                        "ru":"Учет фактического расхода топлива;",
+                        "en":"Accounting for actual fuel consumption;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармай ұрлауды анықтау және алдын алу;",
+                        "ru":"Выявление и предотвращение хищений топлива;",
+                        "en":"Detection and prevention of fuel theft;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Қозғалтқыштың нақты жұмыс уақытын режимдерде есепке алу (бастапқы, оңтайлы, толық жүктеме);",
+                        "ru":"Учет фактического времени работы двигателя в режимах (стартовый, оптимальный, полной загрузки);",
+                        "en":"Accounting for the actual engine operating time in the modes (starting, optimal, full load);"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Нақты уақыттағы деректерді тікелей серверге жіберу;",
+                        "ru":"Передача данных в реальном времени напрямую на сервер;",
+                        "en":"Real-time data transfer directly to the server;"
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Шелек техникасының жұмысын бақылау",
+                "ru":"Контроль работы ковшовой техники",
+                "en":"Control of bucket equipment operation"
+            },
+            "image":"/images/skrt/pages/special-3.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Нақты отын шығынын есепке алу;",
+                        "ru":"Учет фактического расхода топлива;",
+                        "en":"Accounting for actual fuel consumption;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармай ұрлауды анықтау және алдын алу;",
+                        "ru":"Выявление и предотвращение хищений топлива;",
+                        "en":"Detection and prevention of fuel theft;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Қозғалтқыштың нақты жұмыс уақытын режимдерде есепке алу (бастапқы, оңтайлы, толық жүктеме);",
+                        "ru":"Учет фактического времени работы двигателя в режимах (стартовый, оптимальный, полной загрузки);",
+                        "en":"Accounting for the actual engine operating time in the modes (starting, optimal, full load);"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Отынның өнімсіз шығынын анықтау;",
+                        "ru":"Выявление непроизводительного расхода топлива;",
+                        "en":"Identification of unproductive fuel consumption;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Нақты уақыттағы деректерді тікелей серверге жіберу;",
+                        "ru":"Передача данных в реальном времени напрямую на сервер;",
+                        "en":"Real-time data transfer directly to the server;"
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Кранның жұмысын бақылау",
+                "ru":"Контроль работы крана",
+                "en":"Crane operation control"
+            },
+            "image":"/images/skrt/pages/special-4.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Нақты отын шығынын есепке алу;",
+                        "ru":"Учет фактического расхода топлива;",
+                        "en":"Accounting for actual fuel consumption;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармай ұрлауды анықтау және алдын алу;",
+                        "ru":"Выявление и предотвращение хищений топлива;",
+                        "en":"Detection and prevention of fuel theft;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жең жүктемесін бақылау;",
+                        "ru":"Контроль нагрузки на рукав;",
+                        "en":"Monitoring the load on the sleeve;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Отынның өнімсіз шығынын анықтау;",
+                        "ru":"Выявление непроизводительного расхода топлива;",
+                        "en":"Identification of unproductive fuel consumption;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жең жүктемесін бақылау;",
+                        "ru":"Контроль нагрузки на рукав;",
+                        "en":"Monitoring the load on the sleeve;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Техниканың орналасқан жерін бақылау;",
+                        "ru":"Контроль местоположения техники;",
+                        "en":"Control of the location of the equipment;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Нақты уақыттағы деректерді тікелей серверге жіберу;",
+                        "ru":"Передача данных в реальном времени напрямую на сервер;",
+                        "en":"Real-time data transfer directly to the server;"
+                    }
+                }
+            ]
+        },
+        {
+            "title":{
+                "kk":"Бензин тасығыштың жұмысын бақылау",
+                "ru":"Контроль работы бензовоза",
+                "en":"Monitoring the operation of a fuel tanker"
+            },
+            "image":"/images/skrt/pages/special-5.webp",
+            "list":[
+                {
+                    "text":{
+                        "kk":"Нақты отын шығынын есепке алу;",
+                        "ru":"Учет фактического расхода топлива;",
+                        "en":"Accounting for actual fuel consumption;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Отынның өнімсіз шығынын анықтау;",
+                        "ru":"Выявление непроизводительного расхода топлива;",
+                        "en":"Identification of unproductive fuel consumption;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармай ұрлауды анықтау және алдын алу;",
+                        "ru":"Выявление и предотвращение хищений топлива;",
+                        "en":"Detection and prevention of fuel theft;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Техниканың орналасқан жерін бақылау;",
+                        "ru":"Контроль местоположения техники;",
+                        "en":"Control of the location of the equipment;"
+                    }
+                },
+                {
+                    "text":{
+                        "kk":"Жанармай құю станциясына жеткізу кезінде отынды есепке алу.",
+                        "ru":"Учет топлива при доставке на АЗС.",
+                        "en":"Fuel accounting during delivery to the gas station."
+                    }
+                }
+            ]
+        }
+    ]
+}

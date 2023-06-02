@@ -1,0 +1,107 @@
+[
+    {
+        "key":"dut",
+        "title1":{
+            "kk":"DUT",
+            "ru":"DUT",
+            "en":"DUT"
+        },
+        "title2":{
+            "kk":"Жанармай Деңгейінің Сенсоры",
+            "ru":"Датчик Уровня Топлива",
+            "en":"Fuel Level Sensor"
+        },
+        "content":{
+            "kk":"DUT-E автомобильдер мен стационарлық қондырғылардың цистерналарындағы жанармай көлемін дәл өлшеуге арналған.",
+            "ru":"DUT-E предназначен для точного измерения объема топлива в баках автомобилей и стационарных агрегатов.",
+            "en":"The DUT-E is designed to accurately measure the volume of fuel in the tanks of cars and stationary units."
+        },
+        "url":"https://jv-technoton.com/ru/produkty/datchik-urovnya-topliva/",
+        "urlType":"_blank",
+        "img":"/images/equipment/technoton/list/dut.webp"
+    },
+    {
+        "key":"dfm",
+        "title1":{
+            "kk":"DFM",
+            "ru":"DFM",
+            "en":"DFM"
+        },
+        "title2":{
+            "kk":"Отын Шығынын Өлшегіш",
+            "ru":"Расходомер Топлива",
+            "en":"Fuel Flow Meter"
+        },
+        "content":{
+            "kk":"DFM отын шығын өлшегіштері қозғалтқыштың жанармай желісіндегі дизель шығынын өлшеуге, сондай-ақ отын тұтынушысының жұмыс уақытын есепке алуға арналған.",
+            "ru":"Расходомеры топлива DFM предназначены для измерения расхода дизельного топлива в топливной магистрали двигателя, а также учет времени работы потребителя топлива.",
+            "en":"DFM fuel flowmeters are designed to measure the consumption of diesel fuel in the fuel line of the engine, as well as accounting for the operating time of the fuel consumer."
+        },
+        "url":"https://jv-technoton.com/ru/rashodomeri/",
+        "urlType":"_blank",
+        "img":"/images/equipment/technoton/list/dfm.webp"
+    },
+    {
+        "key":"crocodile",
+        "title1":{
+            "kk":"CROCODILE",
+            "ru":"CROCODILE",
+            "en":"CROCODILE"
+        },
+        "title2":{
+            "kk":"Байланыссыз Оқырман",
+            "ru":"Бесконтактный Считыватель",
+            "en":"Contactless Reader"
+        },
+        "content":{
+            "kk":"Crocodile қозғалтқыш инжекторының басқару сигналдарын оқиды және оларды жұмсалған отын көлеміне пропорционалды болатын нормаланған импульстарға айналдырады.",
+            "ru":"Crocodile считывает управляющие сигналы форсунки двигателя и преобразовывает их в нормированные импульсы, число которых пропорционально объему израсходованного топлива.",
+            "en":"Crocodile reads the control signals of the engine nozzle and converts them into normalized pulses, the number of which is proportional to the amount of fuel consumed."
+        },
+        "url":"https://jv-technoton.com/ru/produkty/beskontaktnie-schitivateli/",
+        "urlType":"_blank",
+        "img":"/images/equipment/technoton/list/crocodile.webp"
+    },
+    {
+        "key":"canup",
+        "title1":{
+            "kk":"CANUp",
+            "ru":"CANUp",
+            "en":"CANUp"
+        },
+        "title2":{
+            "kk":"Телематикалық онлайн шлюз",
+            "ru":"Телематический онлайн шлюз",
+            "en":"Telematics Online Gateway"
+        },
+        "content":{
+            "kk":"Canup телематикалық онлайн шлюзі автомобильдің штаттық CAN-шинасынан деректерді алады, жұмыс параметрлерін талдайды және техниканы пайдалану туралы есептерді көлік мониторингі серверіне жібереді.",
+            "ru":"Телематический онлайн шлюз CANUp получает данные из штатной CAN-шины автомобиля, анализирует рабочие параметры и передает отчеты об эксплуатации техники на сервер мониторинга транспорта.",
+            "en":"The online telematics gateway CANUp receives data from the standard CAN bus of the car, analyzes the operating parameters and transmits reports on the operation of equipment to the transport monitoring server."
+        },
+        "url":"https://jv-technoton.com/ru/produkty/telematicheski-shlyuz/",
+        "urlType":"_blank",
+        "img":"/images/equipment/technoton/list/canup.webp"
+    },
+    {
+        "key":"gnom",
+        "title1":{
+            "kk":"GNOM",
+            "ru":"GNOM",
+            "en":"GNOM"
+        },
+        "title2":{
+            "kk":"Осьтік жүктеме сенсоры",
+            "ru":"Датчик нагрузки на ось",
+            "en":"Axle load sensor"
+        },
+        "content":{
+            "kk":"Gnome қозғалыс сенсоры осьтік жүктемені және көктемгі суспензиясы бар автомобильдердегі жүктеме массасын анықтауға арналған",
+            "ru":"Датчик перемещения GNOM  предназначен для определения нагрузки на ось и массы груза на автомашинах с рессорной подвеской",
+            "en":"The GNOME displacement sensor is designed to determine the axle load and weight of the load on vehicles with spring suspension"
+        },
+        "url":"https://jv-technoton.com/ru/produkty/datchiki-nagruzki-na-os/",
+        "urlType":"_blank",
+        "img":"/images/equipment/technoton/list/gnom.webp"
+    }
+]
