@@ -33,7 +33,7 @@ function FooterModule() {
       };
     document.addEventListener("DOMContentLoaded", function() {
         if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('/service-worker.js?version=<?=filemtime($root."/service-worker.js");?>');
+            navigator.serviceWorker.register('/service-worker.js');
         }
         window.addEventListener("scroll", reveal);
     });
