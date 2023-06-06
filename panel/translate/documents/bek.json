@@ -16,7 +16,7 @@
             "ru":"кат. №1200758311. Индикатор текущих данных ДУТ",
             "en":"cat. №1200758311. Current data indicator DUT"
         },
-        "url":"https://radioterminal.ru/katalog/gps-glonass-monitoring/uchet-topliva/eskort-i4",
+        "url":"/legacy/bek-i-4.pdf",
         "urlType":"_blank",
         "img":"/images/equipment/escort/list/escort-i4.webp"
     },
@@ -37,7 +37,7 @@
             "ru":"кат. №1200768514. Терминал предназначен для снятия, накопления и отправки данных с различного оборудования на сервер",
             "en":"cat. №1200768514. The terminal is designed to withdraw, accumulate and send data from various equipment to the server"
         },
-        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "url":"/legacy/terminal.pdf",
         "urlType":"_blank",
         "img":"/images/equipment/bek/list/galileosky.webp"
     },
@@ -58,7 +58,7 @@
             "ru":"кат. №1125760819. Производит чтение данных CAN и передает их беспроводным методом.",
             "en":"cat. №1125760819. Производит чтение данных CAN и передает их беспроводным методом."
         },
-        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "url":"/legacy/can-bek.pdf",
         "urlType":"_blank",
         "img":"/images/equipment/bek/list/can.webp"
     },
@@ -79,7 +79,7 @@
             "ru":"кат. №1300742315. ДУТ предназначен для точного измерения объема топлива в баках автомобилей и стационарных агрегатов.",
             "en":"cat. №1300742315. The DUT is designed to accurately measure the volume of fuel in the tanks of cars and stationary units."
         },
-        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "url":"/legacy/dut-bek.pdf",
         "urlType":"_blank",
         "img":"/images/equipment/bek/list/dut-bek.webp"
     },
@@ -100,7 +100,7 @@
             "ru":"кат. №1200720713. Предназначен для защиты терминала считывания данных от внешних повреждений.",
             "en":"cat. №1200720713. Designed to protect the data reading terminal from external damage."
         },
-        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "url":"/legacy/bek-case.pdf",
         "urlType":"_blank",
         "img":"/images/equipment/bek/list/avk.webp"
     },
@@ -121,7 +121,7 @@
             "ru":"кат. №0203542574. Служит для считывания наработки времени перфоратора (стрелы) на буровых установках",
             "en":"cat. №0203542574. It is used to read the operating time of the drill (boom) on drilling rigs"
         },
-        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "url":"/legacy/udar.pdf",
         "urlType":"_blank",
         "img":"/images/equipment/bek/list/perforation.webp"
     },
@@ -142,7 +142,7 @@
             "ru":"кат. №1300242183. Предназначен для защиты ДУТ-ов от внешних механических повреждений",
             "en":"cat. №1300242183. Designed to protect the units from external mechanical damage"
         },
-        "url":"http://www.rateos.ru/index.php/production/navigation/hardware/azimuth-51",
+        "url":"/legacy/kozhuh-dut.pdf",
         "urlType":"_blank",
         "img":"/images/equipment/bek/list/akd.webp"
     }
