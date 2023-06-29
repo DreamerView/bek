@@ -25,7 +25,7 @@ function solutionsBlock() {
                             <h3><?=$row['title'][$lang];?></h3>
                             <span><?=$row['content'][$lang];?></span>
                         </div>
-                        <?=$link($row['url'],$action['more'][$lang],$row['title'][$lang],'buttonCustom '.$row['backColor'],'');?>
+                        <!-- <?=$link($row['url'],$action['more'][$lang],$row['title'][$lang],'buttonCustom '.$row['backColor'],'');?> -->
                     </div>
                 <? endforeach; ?>
             </div>
