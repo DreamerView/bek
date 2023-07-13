@@ -1,0 +1,69 @@
+{
+    "title":{
+        "kk":"Жанармай құю колонкалары",
+        "ru":"Топливораздаточные колонки",
+        "en":"Fuel dispensers"
+    },
+    "content":{
+        "kk":"Жанармай құю колонкалары-бұл кәсіпорындарда, мысалы, жанармай құю бекеттерінде, автопарктерде және өнеркәсіпте кеңінен қолданылатын арнайы жабдық. Олар коммерциялық көлікке қауіпсіз және тиімді жанармай құюға арналған.",
+        "ru":"Топливораздаточные колонки – это специальное оборудование, которое широко применяется на предприятиях, например, на заправках, автопарках и в промышленности. Они предназначены для безопасной и эффективной заправки коммерческого транспорта.",
+        "en":"Fuel dispensers are special equipment that is widely used in enterprises, for example, at gas stations, fleets and in industry. They are designed for safe and efficient refueling of commercial vehicles."
+    },
+    "video":"/video/trk.mp4",
+    "quote":{
+        "kk":"<b>Кәсіпорындар үшін мұндай бағандар отынды басқаруда және шығындарды бақылауда маңызды рөл атқарады.</b> Олар жанармайдың дәл және сенімді өлшенуін қамтамасыз етеді, бұл көлік паркіне жанармай құюды бақылауға мүмкіндік береді.",
+        "ru":"<b>Для предприятий такие колонки играют важную роль в управлении топливом и контроле расходов.</b> Они обеспечивают точное и надежное измерение топлива, что позволяет контролировать заправку транспортного парка.",
+        "en":"<b>For enterprises, such columns play an important role in fuel management and cost control.</b> They provide accurate and reliable fuel measurement, which allows you to control the refueling of the vehicle fleet."
+    },
+    "solution_title":{
+        "kk":"Негізгі артықшылықтары",
+        "ru":"Основные преимущества",
+        "en":"Main advantages"
+    },
+    "solution_content":{
+        "kk":"Кәсіпорындар үшін отын тарату колонкаларын пайдаланудың негізгі артықшылықтары:",
+        "ru":"Основные преимущества использования топливораздаточных колонок для предприятий:",
+        "en":"The main advantages of using fuel dispensers for enterprises:"
+    },
+    "solution_list":[
+        {
+            "title":{
+                "kk":"Дәлдік және мөлдірлік",
+                "ru":"Точность и прозрачность",
+                "en":"Accuracy and transparency"
+            },
+            "content":{
+                "kk":"Динамиктер жанармайды дәл өлшеу жүйелерімен жабдықталған, бұл ағынның толық бақылауы мен мөлдірлігін қамтамасыз етеді. Бұл әсіресе жанармайдың әр тамшысы маңызды болатын үлкен саябақты басқаруда өте маңызды.",
+                "ru":"Колонки оснащены системами точного измерения топлива, что дает полный контроль и прозрачность расхода. Это особенно важно при управлении большим парком, где каждая капля топлива важна.",
+                "en":"The columns are equipped with accurate fuel measurement systems, which gives full control and transparency of the flow. This is especially important when managing a large fleet, where every drop of fuel is important."
+            },
+            "img":"/images/icons/water_drop.svg"
+        },
+        {
+            "title":{
+                "kk":"Шығындарды оңтайландыру",
+                "ru":"Оптимизация затрат",
+                "en":"Cost optimization"
+            },
+            "content":{
+                "kk":"Бақылау жүйелерінің арқасында кәсіпорындар жанармай құюды тиімді жоспарлай алады және жанармай шығындарын басқара алады. Бағандардан алынған ақпарат оңтайлы маршруттарды анықтауға және ақшаны үнемдеуге көмектеседі.",
+                "ru":"Благодаря системам мониторинга предприятия могут эффективно планировать заправки и управлять расходами на топливо. Информация с колонок помогает определить оптимальные маршруты и экономить деньги.",
+                "en":"Thanks to monitoring systems, enterprises can effectively plan refueling and manage fuel costs. The information from the speakers helps to determine the optimal routes and save money."
+            },
+            "img":"/images/icons/local_gas_station.svg"
+        },
+        {
+            "title":{
+                "kk":"Қауіпсіздік және бақылау",
+                "ru":"Безопасность и контроль",
+                "en":"Security and control"
+            },
+            "content":{
+                "kk":"Динамиктер апаттар мен жанармайдың ағып кетуіне жол бермейтін заманауи қауіпсіздік жүйелерімен жабдықталған. Операторлар жанармай құю қауіпсіздігін қамтамасыз ету арқылы жабдықтың жұмысын бақылай алады.",
+                "ru":"Колонки оборудованы современными системами безопасности, предотвращающими аварии и утечки топлива. Операторы могут контролировать работу оборудования, обеспечивая безопасность заправки.",
+                "en":"The speakers are equipped with modern safety systems that prevent accidents and fuel leaks. Operators can monitor the operation of the equipment, ensuring the safety of refueling."
+            },
+            "img":"/images/icons/hiking.svg"
+        }
+    ]
+}

@@ -43,6 +43,12 @@
                                 <? if(isset($display['image'])): ?>
                                     <?=$Image($display['image'],$row['title'][$langPage]);?>
                                 <? endif; ?>
+                                <? if(isset($display['video'])): ?>
+                                    <video width="100%" height="auto" controls preload="none" poster="/video/poster.webp">
+                                        <source src="<?=$display['video'];?>" type="video/mp4">
+                                        Your browser does not support the video tag.
+                                    </video>
+                                <? endif; ?>
                                 <? if(isset($display['text'])): ?>
                                     <p><?=$display['text'][$langPage];?></p>
                                 <? endif; ?>

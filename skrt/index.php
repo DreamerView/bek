@@ -21,6 +21,16 @@
                     <h1><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $skrt['title'][$langPage]);?></h1>
                     <p><?=$skrt['content'][$langPage];?></p>
                 </div>
+                <? if(isset($skrt['video'])): ?>
+                    <video width="100%" height="auto" controls preload="none" poster="/video/poster.webp">
+                        <source src="<?=$skrt['video'];?>" type="video/mp4">
+                            Your browser does not support the video tag.
+                    </video>
+                <? endif; ?>
+                <div class="titleSection">
+                    <h2><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $skrt['service'][$langPage]);?></h2>
+                    <div class="underline"></div>
+                </div>
                 <div class="landingRow">
                     <?php foreach($skrtList as $row) { ?> 
                         <div class="landingRowBlock">

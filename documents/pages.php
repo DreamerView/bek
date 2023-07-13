@@ -2,10 +2,10 @@
     ob_start("ob_gzhandler");
     {
         $rootPage = realpath($_SERVER["DOCUMENT_ROOT"]); 
-        $pages = ['technoton','escort','pateoc','vesa','bek'];
+        $pages = ['technoton','escort','pateoc','vesa','galileosky','bek'];
+        $show = array('technoton'=>'TECHNOTON','escort'=>'ESCORT','pateoc'=>'PATEOC','vesa'=>'VESA','galileosky'=>'Galileosky','bek'=>'BEK');
         $langPage = require_once($rootPage."/panel/modules/language.php");
         if(!in_array($_GET['find'],$pages)) header('Location: /');
-        $show = array('technoton'=>'TECHNOTON','escort'=>'ESCORT','pateoc'=>'PATEOC','vesa'=>'VESA','bek'=>'BEK');
         $result = $_GET['find'];
         $Image = require_once($rootPage."/panel/modules/image.php");
         $req = $_SERVER['REQUEST_URI'];
@@ -46,7 +46,7 @@
                         <?=$Image($row['img'],$row['title1'][$langPage]." - ".$row['title2'][$langPage]);?>
                     </div>
                     <div class="landingRightContentText">
-                        <h2><b><?=$row['title1'][$langPage];?></b> - <?=$row['title2'][$langPage];?></h2>
+                        <h2><b><?=$row['title1'][$langPage];?></b><?if($row['title2'][$langPage]!==""):?> - <?=$row['title2'][$langPage];?><?endif;?></h2>
                         <p><?=$row['content'][$langPage];?></p>
                         <?=$linkPage($row['url'],$actionPage['more'][$langPage],$row['title1'][$langPage]." - ".$row['title2'][$langPage],'redButton btn-glow',$row['urlType']);?>
                     </div>

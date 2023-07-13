@@ -11,10 +11,21 @@ function navHeaderModule() {
     }
     ob_end_clean();
 ?>
-<nav class="navMenu">
-    <ul>
+<nav class="one">
+    <ul class="topmenu">
         <? foreach($navHeader as $row) :?>
-            <li class="<?=($urlResult===$row['url'])?'activeNav':NULL?>"><?=$link($row['url'],$row['title'][$lang],$row['title'][$lang],'','');?></li>
+            <li class="<?=($urlResult===$row['url'])?'activeNav':NULL?>">
+                <?=$link($row['url'],$row['title'][$lang],$row['title'][$lang],'','');?>
+                <? if(isset($row['submenu'])): ?>
+                <ul class="submenu">
+                    <? foreach($row['submenu'] as $event) :?>
+                        <li>
+                            <?=$link($event['url'],$event['title'][$lang],$event['title'][$lang],'','');?>
+                        </li>
+                    <? endforeach;?>
+                </ul>
+            <? endif; ?>
+            </li>
         <? endforeach; ?>
     </ul>
 </nav>

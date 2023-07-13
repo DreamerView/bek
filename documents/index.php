@@ -4,8 +4,8 @@
         $rootPage = realpath($_SERVER["DOCUMENT_ROOT"]);
         $langPage = require_once($rootPage."/panel/modules/language.php");
         $Image = require_once($rootPage."/panel/modules/image.php");
-        $pages = ['technoton','escort','pateoc','vesa','bek'];
-        $show = array('technoton'=>'TECHNOTON','escort'=>'ESCORT','pateoc'=>'PATEOC','vesa'=>'VESA','bek'=>'BEK');
+        $pages = ['technoton','escort','pateoc','vesa','galileosky','bek'];
+        $show = array('technoton'=>'TECHNOTON','escort'=>'ESCORT','pateoc'=>'PATEOC','vesa'=>'VESA','galileosky'=>'Galileosky','bek'=>'BEK');
         $linkPage = require_once($rootPage."/panel/modules/link.php");
         $documents = json_decode(file_get_contents($rootPage.'/panel/translate/pages/documents.json'),true);
         $actionPage = json_decode(file_get_contents($rootPage.'/panel/translate/action.json'),true);

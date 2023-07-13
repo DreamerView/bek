@@ -20,6 +20,9 @@
 ?>
 
     <?php require_once($rootPage."/panel/modules/seo.php");?>
+    <div class='fullscreenImg'>
+        <img class="full" src="" alt="">
+    </div>
     <?=$SEO($fcms['title'][$langPage],$skrt['content'][$langPage]);?>
     <body>
         <?php require_once($rootPage."/panel/component/header.php");?>

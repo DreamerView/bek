@@ -9,6 +9,11 @@
         "ru":"Система контроля расхода топлива (СКРТ) позволяет наладить эффективный учет топлива, проверить нормы расхода топлива. Контроль уровня топлива позволяет избежать хищений (сливов) из бака, манипуляций с чеками заправочных станций.",
         "en":"The fuel consumption monitoring system (FCMS) allows you to establish effective fuel accounting, check fuel consumption rates. Fuel level control allows you to avoid theft (draining) from the tank, manipulations with receipts of gas stations."
     },
+    "service": {
+        "kk":"Біз қызмет көрсетеміз",
+        "ru":"Мы обслуживаем",
+        "en":"We serve"
+    },
     "problems":{
         "kk":"Шешілетін мәселелер",
         "ru":"Решаемые проблемы",
@@ -18,5 +23,6 @@
         "kk":"Техникалық орындау нұсқалары",
         "ru":"Варианты технического исполнения",
         "en":"Variants of technical execution"
-    }
+    },
+    "video":"/video/fcms.mp4"
 }

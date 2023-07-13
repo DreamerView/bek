@@ -1,0 +1,107 @@
+[
+    {
+        "key":"7x",
+        "title1":{
+            "kk":"Galileosky 7x",
+            "ru":"Galileosky 7x",
+            "en":"Galileosky 7x"
+        },
+        "title2":{
+            "kk":"Жетілдірілген функционалдылық 2 CAN, BE 5.0",
+            "ru":"Передовой функционал 2 CAN, BLE 5.0",
+            "en":"Advanced functionality 2 CAN, BE 5.0"
+        },
+        "content":{
+            "kk":"Жетілдірілген GPS/GLONASS терминалы флотты және стационарлық қондырғыларды икемді басқаруға арналған кең функционалдығы бар",
+            "ru":"Передовой GPS/ГЛОНАСС терминал c обширным функционалом для гибкого управления автопарком и стационарными объектами",
+            "en":"Advanced GPS/GLONASS terminal with extensive functionality for flexible fleet management and stationary facilities"
+        },
+        "url":"https://galileosky.ru/products/7x/galileosky-7x.html",
+        "urlType":"_blank",
+        "img":"/images/equipment/galileosky/list/7x.webp"
+    },
+    {
+        "key":"7x_c",
+        "title1":{
+            "kk":"Galileosky 7x C",
+            "ru":"Galileosky 7x C",
+            "en":"Galileosky 7x C"
+        },
+        "title2":{
+            "kk":"2G желілеріндегі 10 кірістің жеңіл нұсқасы",
+            "ru":"Легкая версия 10 входов на 2G сетях",
+            "en":"Light version 10 inputs on 2G networks"
+        },
+        "content":{
+            "kk":"GPS / ГЛОНАСС негізгі бақылау мәселелерін шешуге арналған максималды кірістері бар терминал",
+            "ru":"GPS/ГЛОНАСС терминал с максимальным количеством входов для решения основных задач мониторинга",
+            "en":"GPS/GLONASS terminal with the maximum number of inputs for solving the main monitoring tasks"
+        },
+        "url":"https://galileosky.ru/products/7x/galileosky-7x-c.html",
+        "urlType":"_blank",
+        "img":"/images/equipment/galileosky/list/7x-c.webp"
+    },
+    {
+        "key":"7x_lte",
+        "title1":{
+            "kk":"Galileosky 7X LTE",
+            "ru":"Galileosky 7X LTE",
+            "en":"Galileosky 7X LTE"
+        },
+        "title2":{
+            "kk":"Кеңейтілген функционалдылық LTE қолдауы",
+            "ru":"Расширенная функциональность Поддержка LTE",
+            "en":"Advanced functionality LTE support"
+        },
+        "content":{
+            "kk":"Жетілдірілген флотты басқаруға арналған LTE қосылған көп функциялы GPS трекері",
+            "ru":"Многофункциональный GPS-трекер с поддержкой LTE для расширенного управления автопарком",
+            "en":"Multifunctional GPS tracker with LTE support for advanced fleet management"
+        },
+        "url":"https://galileosky.ru/products/devices/7x/galileosky-7x-lte.html",
+        "urlType":"_blank",
+        "img":"/images/equipment/galileosky/list/7x.webp"
+    },
+    {
+        "key":"7x_plus",
+        "title1":{
+            "kk":"Galileosky 7x Plus",
+            "ru":"Galileosky 7x Plus",
+            "en":"Galileosky 7x Plus"
+        },
+        "title2":{
+            "kk":"Қосымша Bluetooth 5.0 кірістері",
+            "ru":"Больше входов Bluetooth 5.0",
+            "en":"More Bluetooth 5.0 inputs"
+        },
+        "content":{
+            "kk":"GPS / GLONASS бай функционалдығы бар терминал. Жаңа нұсқадағы Классика.",
+            "ru":"GPS/ГЛОНАСС терминал с богатым функционалом. Классика в новом исполнении.",
+            "en":"GPS/GLONASS terminal with rich functionality. Classics in a new version."
+        },
+        "url":"https://galileosky.ru/products/devices/7x/galileosky-7x-plus.html",
+        "urlType":"_blank",
+        "img":"/images/equipment/galileosky/list/7x-c.webp"
+    },
+    {
+        "key":"7x_wifi_hub",
+        "title1":{
+            "kk":"Galileosky 7x Wi-Fi Hub",
+            "ru":"Galileosky 7x Wi-Fi Hub",
+            "en":"Galileosky 7x Wi-Fi Hub"
+        },
+        "title2":{
+            "kk":"Wi-Fi 2 CAN, BE 5.0 арқылы деректерді жинау және беру",
+            "ru":"Сбор и передача данных по Wi-Fi 2 CAN, BLE 5.0",
+            "en":"Data collection and transmission via Wi-Fi 2 CAN, BE 5.0"
+        },
+        "content":{
+            "kk":"Жетілдірілген GPS/ГЛОНАСС GSM сигналы әлсіз жерлерде деректерді жинауға және жіберуге арналған терминал",
+            "ru":"Передовой GPS/ГЛОНАСС терминал для сбора и передачи данных в местах со слабым сигналом GSM",
+            "en":"Advanced GPS/GLONASS terminal for data collection and transmission in places with weak GSM signal"
+        },
+        "url":"https://galileosky.ru/products/7x/galileosky-7x-wi-fi-hub.html",
+        "urlType":"_blank",
+        "img":"/images/equipment/galileosky/list/7x.webp"
+    }
+]

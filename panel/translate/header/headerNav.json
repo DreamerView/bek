@@ -17,11 +17,29 @@
     },
     {
         "title":{
-            "kk":"ОШБЖ шешімдері",
-            "ru":"Решения СКРТ",
-            "en":"FCMS Solutions"
+            "kk":"ЖЖМ есебі",
+            "ru":"Учет ГСМ",
+            "en":"Fuel accounting"
         },
-        "url":"/skrt/"
+        "submenu":[
+            {
+                "title":{
+                    "kk":"ОШБЖ шешімдері",
+                    "ru":"Решения СКРТ",
+                    "en":"FCMS Solutions"
+                },
+                "url":"/skrt/"
+            },
+            {
+                "title":{
+                    "kk":"Жанармай тарату колонкалары",
+                    "ru":"Топливораздаточные колонки",
+                    "en":"Fuel dispensers"
+                },
+                "url":"/trk/"
+            }
+        ],
+        "url":"#"
     },
     {
         "title":{
