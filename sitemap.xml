@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+      http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" 
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+      xmlns:xhtml="http://www.w3.org/1999/xhtml">
+      
+	<url>
+		<loc>https://bekz.kz/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+    <url>
+		<loc>https://bekz.kz/about-us/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/about-us/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/about-us/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/about-us/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+    <url>
+		<loc>https://bekz.kz/skrt/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/skrt/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/skrt/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/skrt/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+    <url>
+		<loc>https://bekz.kz/trk/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/trk/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/trk/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/trk/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+    <url>
+		<loc>https://bekz.kz/videoregistration/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/videoregistration/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/videoregistration/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/videoregistration/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+    <url>
+		<loc>https://bekz.kz/monitoring/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/monitoring/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/monitoring/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/monitoring/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+    <url>
+		<loc>https://bekz.kz/monitoring/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/monitoring/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/monitoring/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/monitoring/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+    <url>
+		<loc>https://bekz.kz/documents/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/documents/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/documents/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/documents/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+    <url>
+		<loc>https://bekz.kz/contact/</loc>
+		<xhtml:link rel="alternate" hreflang="kk" href="https://bekz.kz/contact/?lang=kk" />
+        <xhtml:link rel="alternate" hreflang="ru" href="https://bekz.kz/contact/?lang=ru" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://bekz.kz/contact/?lang=en" />
+		<changefreq>daily</changefreq>
+		<lastmod>2023-07-13</lastmod>
+	</url>
+</urlset>
