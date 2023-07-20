@@ -1071,7 +1071,7 @@ div.landingPromoTitle {
 }
 div.landingPromoContentRow {
     margin:0 auto;
-    max-width: 1080px;
+    max-width: 1000px;
     width:100%;
     min-width: 100px;
     display: -webkit-box;
