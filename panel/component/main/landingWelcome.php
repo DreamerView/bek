@@ -15,7 +15,7 @@ function landingWelcomeModule() {
 <section class="landingContent">
     <div>
         <div class="landingRightContentText">
-            <h2><?=preg_replace('/(?<=\>)\b\w*\b|^\w*\b/', '<b>$0</b>', $landingWelcome['title'][$langModule]);?></h2>
+            <h2><?=preg_replace('/(?<=\>)\b\w*\b|^\w*\b/', '<mark><b>$0</b></mark>', $landingWelcome['title'][$langModule]);?></h2>
             <p><?=$landingWelcome['content'][$langModule];?></p>
             <?=$linkModule('/about-us/',$actionModule['more'][$langModule],$landingWelcome['title'][$langModule],'redButton btn-glow','');?>
         </div>

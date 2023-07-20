@@ -14,7 +14,7 @@ function solutionsBlock() {
 <? ob_start(); { ?>
 <section class="solutions">
             <div class="titleSection">
-                <h2><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $solutions['title'][$lang]);?></h2>
+                <h2><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $solutions['title'][$lang]);?></h2>
                 <div class="underline"></div>
             </div>
             <div class="solutions_row">

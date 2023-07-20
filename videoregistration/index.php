@@ -17,7 +17,7 @@
         <main class="block_animation">
             <section class="spoiler">
                 <div class="titleSection">
-                    <h1><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $pageInfo['title1'][$langPage]);?></h1>
+                    <h1><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $pageInfo['title1'][$langPage]);?></h1>
                     <p><?=$pageInfo['content1'][$langPage];?></p>
                     <div class="underline"></div>
                 </div>

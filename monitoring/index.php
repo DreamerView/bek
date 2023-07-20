@@ -17,12 +17,12 @@
         <main class="block_animation">
             <section class="landingPromo">
                 <div class="landingPromoTitle">
-                    <h1><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $pageInfo['title'][$langPage]);?></h1>
+                    <h1><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $pageInfo['title'][$langPage]);?></h1>
                     <p>
                         <?=$pageInfo['content'][$langPage];?>
                     </p>
                 </div>
-                <div class="landingPromoContent">
+                <div class="landingPromoContentRow">
                     <? foreach($pageInfo['present'] as $row): ?>
                     <div><?=$Image($row['img'],'Icon SVG');?><p><?=$row['title'][$langPage];?></p></div>
                     <? endforeach; ?>
@@ -30,7 +30,7 @@
             </section>
             <section class="spoiler">
                 <div class="titleSection">
-                    <h2><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $pageInfo['title1'][$langPage]);?></h2>
+                    <h2><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $pageInfo['title1'][$langPage]);?></h2>
                     <p><?=$pageInfo['content1'][$langPage];?></p>
                     <div class="underline"></div>
                 </div>

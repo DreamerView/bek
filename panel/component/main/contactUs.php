@@ -15,7 +15,7 @@ function ContactModule() {
 { ?>
 <section class="contactUs">
     <div class="titleSection">
-        <h2><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $contact['title1'][$lang]);?></h2>
+        <h2><?=preg_replace('/^[^\s]+/', '<mark class="brand"><b>$0</b></mark>', $contact['title1'][$lang]);?></h2>
         <div class="underline"></div>
     </div>
     <div class="contactForm">

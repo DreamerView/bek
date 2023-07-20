@@ -18,7 +18,7 @@
         <main class="block_animation">
             <section class="landingPromo">
                 <div class="landingPromoTitle">
-                    <h1><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $skrt['title'][$langPage]);?></h1>
+                    <h1><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $skrt['title'][$langPage]);?></h1>
                     <p><?=$skrt['content'][$langPage];?></p>
                 </div>
                 <? if(isset($skrt['video'])): ?>
@@ -28,7 +28,7 @@
                     </video>
                 <? endif; ?>
                 <div class="titleSection">
-                    <h2><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $skrt['service'][$langPage]);?></h2>
+                    <h2><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $skrt['service'][$langPage]);?></h2>
                     <div class="underline"></div>
                 </div>
                 <div class="landingRow">

@@ -529,6 +529,28 @@ ul.topmenu > li:hover > ul.submenu {
 ul.topmenu li > ul.submenu li {
     display: block;
 }
+ul.topmenu li > ul.submenu li.activeNav a {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    height: 43px;
+    padding:0 16px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    background-color: var(--brandColor);
+    border-radius: 16px;
+    text-decoration: none;
+    color:#fff;
+    font-size: 16px;
+    line-height: 22px;
+    white-space:nowrap;
+}
 ul.topmenu li > ul.submenu li a {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -761,7 +783,7 @@ div.landingRightContentImage > img {
 }
 section.statistics {
     border-radius: 16px;
-    margin: 64px auto 32px;
+    margin: 64px auto 0;
     max-width: 1200px;
     width:calc(100% - 32px);
     background-color: var(--blockColor);
@@ -823,10 +845,10 @@ div.statistics_block > span {
 }
 section.solutions {
     margin: 0px auto;
-    max-width: 1098px;
+    max-width: 1200px;
     width:100%;
     min-width: 100px;
-    padding:64px 16px;
+    padding:64px 16px 0;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     display: -webkit-box;
@@ -840,13 +862,13 @@ section.solutions {
     text-align: center;
 }
 div.solutions_row {
-    max-width: 1098px;
+    max-width: 1200px;
     width: 100%;
     min-width: 100px;
     display: -ms-grid;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap:60px 40px;
+    gap:48px;
     margin: 0px auto;
 }
 div.solutions_block {
@@ -895,7 +917,7 @@ div.solutions_block > div > span {
 }
 section.reviews {
     border-radius: 16px;
-    margin: 64px auto 32px;
+    margin: 64px auto 0;
     max-width: 1280px;
     width: calc(100% - 32px);
     background-color: var(--blockColor);
@@ -1047,6 +1069,39 @@ div.landingPromoTitle {
     min-width: 100px;
     text-align: center;
 }
+div.landingPromoContentRow {
+    margin:0 auto;
+    max-width: 1080px;
+    width:100%;
+    min-width: 100px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+}
+div.landingPromoContentRow > div {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    gap:24px;
+    padding:16px;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    border-radius: 16px;
+    min-height:60px;
+    background-color: var(--blockColor);
+}
+div.landingPromoContentRow > div > img {
+    width:32px;
+    height:32px;
+}
+div.landingPromoContentRow > div > p > b {
+    color:var(--fontColor);
+}
 div.landingPromoContent {
     margin:0 auto;
     max-width: 1080px;
@@ -1057,7 +1112,7 @@ div.landingPromoContent {
     display: flex;
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
-    gap:32px;
+    gap:16px;
 }
 div.landingPromoContent > div {
     display: -webkit-box;
@@ -1228,7 +1283,7 @@ section.spoiler {
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
             flex-direction: column;
-    gap:24px;
+    gap:16px;
     padding-top:64px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -1243,7 +1298,7 @@ section.spoiler > img {
 details {
     max-width: 1000px;
     width:100%;
-    padding:24px;
+    padding:20px;
     background-color: var(--blockColor);
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -1261,7 +1316,7 @@ details[open] > summary {
     border-bottom: 1px solid hsl(0, 0%, 80%);
 }
 details[open] > :not(summary) {
-    padding-top: 16px;
+    padding-top: 12px;
 }
 details[open] > div {
     display: -webkit-box;
@@ -1317,7 +1372,7 @@ section.introduction {
         -ms-flex-direction: column;
             flex-direction: column;
     gap:24px;
-    padding:48px 0;
+    padding-top:64px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
 }
@@ -1481,4 +1536,17 @@ video {
     height:auto;
     margin: 0 auto;
     border-radius: 16px;
+}
+/* div.fullImage {
+    top:0;
+    position: fixed;
+    z-index:99999;
+    width: 100vw;
+    height: 100vh;
+    background-color: #007AFF;
+} */
+mark {
+    /* padding:6px 8px; */
+    background-color: transparent;
+    border-radius: 8px;
 }

@@ -17,7 +17,7 @@
         <main class="block_animation">
             <section class="landingPromo">
                 <div class="landingPromoTitle">
-                    <h1><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $trk['title'][$langPage]);?></h1>
+                    <h1><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $trk['title'][$langPage]);?></h1>
                     <p><?=$trk['content'][$langPage];?></p>
                 </div>
                 <div class="landingPromoContent">
@@ -32,7 +32,7 @@
             </section>
             <section class="solutions">
                 <div class="titleSection">
-                    <h2><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $trk['solution_title'][$langPage]);?></h2>
+                    <h2><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $trk['solution_title'][$langPage]);?></h2>
                     <p><?=$trk['solution_content'][$langPage];?></p>
                     <div class="underline"></div>
                 </div>
