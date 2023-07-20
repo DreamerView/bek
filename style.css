@@ -1326,6 +1326,7 @@ details summary:after {
   details[open] summary:after {
     transform: rotate(45deg);
     font-size: 2rem;
+    color:var(--brandColor)
   }
 details > summary {
     font-size:16px;
