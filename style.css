@@ -1295,7 +1295,11 @@ section.spoiler > img {
     border-radius: 16px;
     margin: 0 auto;
 }
+details summary::-webkit-details-marker {
+    display:none;
+}
 details {
+    position: relative;
     max-width: 1000px;
     width:100%;
     padding:20px;
@@ -1305,11 +1309,30 @@ details {
     border-radius: 16px;
     margin: 0px auto;
 }
+details summary:after {
+    content: "+";
+    color: black;
+    position: absolute;
+    font-size: 1.75rem;
+    line-height: 0;
+    margin-top: 0.75rem;
+    right: 0;
+    font-weight: 200;
+    transform-origin: center;
+    transition: 200ms linear;
+    font-weight: 500;
+    margin-right:16px;
+  }
+  details[open] summary:after {
+    transform: rotate(45deg);
+    font-size: 2rem;
+  }
 details > summary {
     font-size:16px;
     line-height:26px;
     cursor: pointer;
     font-weight: bold;
+    list-style: none;
 }
 details[open] > summary {
     padding-bottom: 16px;
