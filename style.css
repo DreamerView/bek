@@ -1306,8 +1306,8 @@ details {
     margin: 0px auto;
 }
 details > summary {
-    font-size:17px;
-    line-height:27px;
+    font-size:16px;
+    line-height:26px;
     cursor: pointer;
     font-weight: bold;
 }
