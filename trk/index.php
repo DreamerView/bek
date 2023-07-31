@@ -39,7 +39,7 @@
                 <div class="solutions_row">
                     <? foreach($trk['solution_list'] as $row): ?>
                         <div class="solutions_block">
-                            <?=$Image($row['img'],$row['title'][$langPage]);?>
+                            <?=$Image($row['img'],$row['title'][$langPage].". Icon by https://icons8.com Icons8");?>
                             <div>
                                 <h3><?=$row['title'][$langPage];?></h3>
                                 <span><?=$row['content'][$langPage];?></span>

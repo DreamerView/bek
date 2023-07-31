@@ -12,6 +12,7 @@
     <?=$SEO($pageInfo['title'][$langPage],$pageInfo['content'][$langPage]);?>
 
     <body>
+        <div class="fullImage"></div>
         <? require_once($rootPage."/panel/component/header.php");?>
         <main class="block_animation">
             <? require_once($rootPage."/panel/component/main/promo.php");?>

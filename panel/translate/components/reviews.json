@@ -3,5 +3,10 @@
         "kk":"Пікірлер мен сертификаттар",
         "ru":"Отзывы и сертификаты",
         "en":"Reviews and certificates"
+    },
+    "content":{
+        "kk":"Біздің қанағаттанған тұтынушыларымыздың пікірлері мен қызметтеріміздің жоғары сенімділігін растайтын сертификаттарды зерттеңіз!",
+        "ru":"Изучите отзывы наших довольных клиентов и сертификатов, подтверждающие высокую надежность наших услуг!",
+        "en":"Study the reviews of our satisfied customers and certificates confirming the high reliability of our services!"
     }
 }

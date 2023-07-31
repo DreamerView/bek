@@ -12,7 +12,7 @@ function landingWelcomeModule() {
     ob_end_clean();
 ?>
 <? ob_start(); { ?>
-<section class="landingContent">
+<!-- <section class="landingContent">
     <div>
         <div class="landingRightContentText">
             <h2><?=preg_replace('/(?<=\>)\b\w*\b|^\w*\b/', '<mark><b>$0</b></mark>', $landingWelcome['title'][$langModule]);?></h2>
@@ -23,6 +23,15 @@ function landingWelcomeModule() {
             <?=$ImageModule("/images/Capture.webp",$landingWelcome['title'][$langModule]);?>
         </div>
     </div>
+</section> -->
+<section class="titleLanding">
+                <h2>
+                    <?=preg_replace('/(?<=\>)\b\w*\b|^\w*\b/', '<mark><b>$0</b></mark>', $landingWelcome['title'][$langModule]);?>
+                </h2>
+                <p>
+                    <?=$landingWelcome['content'][$langModule];?>
+                </p>
+                <?=$linkModule('/about-us/',$actionModule['more'][$langModule],$landingWelcome['title'][$langModule],'redButton btn-glow','');?>
 </section>
 <? } ob_flush(); 
     }

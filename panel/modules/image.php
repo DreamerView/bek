@@ -27,6 +27,7 @@
                      alt='".$titleResult."'  
                      title='".$titleResult."'
                      role='img'
+                     
                 />";
     }
 ?>

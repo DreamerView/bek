@@ -37,7 +37,7 @@
                 "ru":"Колонки оснащены системами точного измерения топлива, что дает полный контроль и прозрачность расхода. Это особенно важно при управлении большим парком, где каждая капля топлива важна.",
                 "en":"The columns are equipped with accurate fuel measurement systems, which gives full control and transparency of the flow. This is especially important when managing a large fleet, where every drop of fuel is important."
             },
-            "img":"/images/icons/water_drop.svg"
+            "img":"/images/3d/mark.png"
         },
         {
             "title":{
@@ -50,7 +50,7 @@
                 "ru":"Благодаря системам мониторинга предприятия могут эффективно планировать заправки и управлять расходами на топливо. Информация с колонок помогает определить оптимальные маршруты и экономить деньги.",
                 "en":"Thanks to monitoring systems, enterprises can effectively plan refueling and manage fuel costs. The information from the speakers helps to determine the optimal routes and save money."
             },
-            "img":"/images/icons/local_gas_station.svg"
+            "img":"/images/3d/gas-station.png"
         },
         {
             "title":{
@@ -63,7 +63,7 @@
                 "ru":"Колонки оборудованы современными системами безопасности, предотвращающими аварии и утечки топлива. Операторы могут контролировать работу оборудования, обеспечивая безопасность заправки.",
                 "en":"The speakers are equipped with modern safety systems that prevent accidents and fuel leaks. Operators can monitor the operation of the equipment, ensuring the safety of refueling."
             },
-            "img":"/images/icons/hiking.svg"
+            "img":"/images/3d/security.png"
         }
     ]
 }

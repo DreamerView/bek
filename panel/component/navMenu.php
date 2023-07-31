@@ -19,7 +19,7 @@ function navHeaderModule() {
                 <? if(isset($row['submenu'])): ?>
                 <ul class="submenu">
                     <? foreach($row['submenu'] as $event) :?>
-                        <li>
+                        <li class="<?=($urlResult===$event['url'])?'activeNav':NULL?>">
                             <?=$link($event['url'],$event['title'][$lang],$event['title'][$lang],'','');?>
                         </li>
                     <? endforeach;?>

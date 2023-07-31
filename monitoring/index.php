@@ -68,6 +68,7 @@
             <section class="landingPromo">
                 <div class="titleSection">
                     <h2><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $pageInfo['title2'][$langPage]);?></h2>
+                    <p><?=$pageInfo['content2'][$langPage];?></p>
                     <div class="underline"></div>
                 </div>
                 <div class="landingPromoContent">
@@ -76,6 +77,21 @@
                     <? endforeach; ?>
                 </div>
             </section>
+            <section class="titleLanding">
+                <h2>
+                    Диспетчеризации горно-шахтной техники
+                </h2>
+                <p>
+                    <b>Повышение эффективности</b> работы активов путем оптимизации бизнес процессов.
+                </p>
+                <div class="landingPromoContentRow">
+                    <div><p><b>Диспетчеризация</b> - является инструментом при помощи которого будут приниматься управленческие и операционные решения по достижению оптимальных условий эксплуатации оборудования в максимально кратчайшие сроки.</p></div>
+                </div>
+                <?=$Image('/images/stock/disp.webp','NO name');?>
+            </section>
+            <!-- <section class="landingPromo">
+                
+            </section> -->
             <? require_once($rootPage."/panel/component/main/landingWelcome.php");?>
             <? require_once($rootPage."/panel/component/main/statistics.php");?>
             <? require_once($rootPage."/panel/component/main/contactUs.php");?>

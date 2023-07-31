@@ -4,9 +4,14 @@
         "ru":"Основные Решения от BEK",
         "en":"Basic Solutions from BEK"
     },
+    "content":{
+        "kk":"Біз шешімдердің кең спектрін ұсынамыз, соның ішінде келесі бағыттар:",
+        "ru":"Мы предоставляем широкий спектр решений, включая следующие области:",
+        "en":"We provide a wide range of solutions, including the following areas:"
+    },
     "folder":[
         {
-            "img":"/images/icons/speed.svg",
+            "img":"/images/3d/time.png",
             "backColor":"greenBackground",
             "title":{
                 "kk":"Отын шығынын бақылау",
@@ -21,7 +26,7 @@
             "url":"/skrt"
         },
         {
-            "img":"/images/icons/local_shipping.svg",
+            "img":"/images/3d/truck.png",
             "backColor":"blueBackground",
             "title":{
                 "kk":"Үзілістерді азайту",
@@ -36,7 +41,7 @@
             "url":""
         },
         {
-            "img":"/images/icons/bar_chart.svg",
+            "img":"/images/3d/analytics.png",
             "backColor":"orangeBackground",
             "title":{
                 "kk":"Деректерді талдау",
@@ -51,7 +56,7 @@
             "url":""
         },
         {
-            "img":"/images/icons/local_gas_station.svg",
+            "img":"/images/3d/gas-station.png",
             "backColor":"redBackground",
             "title":{
                 "kk":"ЖЖМ шығындарын азайту",
@@ -66,7 +71,7 @@
             "url":""
         },
         {
-            "img":"/images/icons/query_stats.svg",
+            "img":"/images/3d/monitoring.png",
             "backColor":"purpleBackground",
             "title":{
                 "kk":"Өндіріс мониторингі",
@@ -81,7 +86,7 @@
             "url":""
         },
         {
-            "img":"/images/icons/travel_explore.svg",
+            "img":"/images/3d/globe-location.png",
             "backColor":"blackPurpleBackground",
             "title":{
                 "kk":"Көліктің геолокациясы",

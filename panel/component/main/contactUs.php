@@ -16,6 +16,7 @@ function ContactModule() {
 <section class="contactUs">
     <div class="titleSection">
         <h2><?=preg_replace('/^[^\s]+/', '<mark class="brand"><b>$0</b></mark>', $contact['title1'][$lang]);?></h2>
+        <p><?=$contact['content1'][$lang];?></p>
         <div class="underline"></div>
     </div>
     <div class="contactForm">
@@ -30,7 +31,8 @@ function ContactModule() {
 </section>
 <section class="spoiler">
     <div class="titleSection">
-        <h2><?=preg_replace('/^[^\s]+/', '<b>$0</b>', $contact['title2'][$lang]);?></h2>
+        <h2><?=preg_replace('/^[^\s]+/', '<mark><b>$0</b></mark>', $contact['title2'][$lang]);?></h2>
+        <p><?=$contact['content2'][$lang];?></p>
         <div class="underline"></div>
     </div>
     <? foreach($contact['details'] as $row): ?>

@@ -4,6 +4,11 @@
         "ru":"Есть вопросы?",
         "en":"Any questions?"
     },
+    "content1":{
+        "kk":"Жауаптар мен кәсіби қолдау үшін бізге хабарласыңыз!",
+        "ru":"Не стесняйтесь обращаться к нам для получения ответов и профессиональной поддержки!",
+        "en":"Do not hesitate to contact us for answers and professional support!"
+    },
     "list":[
         {
             "content":{
@@ -31,6 +36,11 @@
         "kk":"Жиі Қойылатын Сұрақтар",
         "ru":"Часто Задаваемые Вопросы",
         "en":"Frequently Asked Questions"
+    },
+    "content2":{
+        "kk":"Ең көп таралған сұрауларға жылдам және түсінікті жауаптарды осы жерден табыңыз.",
+        "ru":"Находите быстрые и понятные ответы на самые распространенные запросы здесь.",
+        "en":"Find quick and clear answers to the most common queries here."
     },
     "details":[
         {

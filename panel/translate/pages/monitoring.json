@@ -338,6 +338,11 @@
         "ru":"Система мониторинга транспорта",
         "en":"Transport monitoring system"
     },
+    "content2":{
+        "kk":"Жүйе көлік құралдарының орналасқан жерін, жылдамдығын, қозғалыс бағытын және басқа да сипаттамаларын бақылауға мүмкіндік береді.",
+        "ru":"Система позволяет отслеживать местоположение, скорость, направление движения и другие характеристики транспортных средств.",
+        "en":"The system allows you to track the location, speed, direction of movement and other characteristics of vehicles."
+    },
     "present1":[
         {
             "img":"/images/icons/info_outline.svg",

@@ -10,6 +10,7 @@ function HeaderModule() {
     }
     ob_end_clean();
 ?>
+<? require_once($root."/panel/progress.php");?>
 <div class="full">
     <div class="basic_animation">
         <div>

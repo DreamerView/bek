@@ -11,7 +11,7 @@ function FooterModule() {
         $link = require($root."/panel/modules/link.php");
         $pages = ['bek','technoton','escort','pateoc'];
     }
-    ob_end_clean();    
+    ob_end_clean();
 ?>
 <script>
     const reveal = () => {
