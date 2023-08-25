@@ -18,14 +18,6 @@ function reviewsModule() {
                     <div class="underline"></div>
                 </div>
             </div>
-            <!-- <div class="reviews_row_list">
-                <div><?=$Image('/images/reviews/minified/kazakhmys_optimized.webp','Kazakhmys');?></div>
-                <div><?=$Image('/images/reviews/minified/Alpha-Safety_optimized.webp','Alpha-Safety');?></div>
-                <div><?=$Image('/images/reviews/minified/novazink_optimized.webp','NovaZink');?></div>
-                <div><?=$Image('/images/reviews/minified/siemens_optimized.webp','Siemens');?></div>
-                <div><?=$Image('/images/reviews/minified/technoton_optimized.webp','Technoton');?></div>
-                <div><?=$Image('/images/reviews/minified/VESA_optimized.webp','VESA');?></div>
-            </div> -->
             <div class="slider-responsive">
             <div class="slider-container">
                 <a href="/images/reviews/kazakhmys.jpg" title="Kazakhmys" class="slide slide-1">

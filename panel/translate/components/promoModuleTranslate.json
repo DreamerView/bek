@@ -1,9 +1,9 @@
 [
     {
         "title":{
-            "kk":"Жанармай шығынын бақылау жүйесі",
-            "ru":"Система контроля расхода топлива",
-            "en":"Fuel consumption monitoring system"
+            "kk":"Көлік мониторингі жүйелері",
+            "ru":"Системы мониторинга транспорта",
+            "en":"Transport monitoring systems"
         },
         "content":{
             "kk":"Күрделі машиналарға арналған дайын телематикалық шешімдер",
@@ -11,7 +11,7 @@
             "en":"Ready-made telematics solutions for complex machines"
         },
         "image":"/images/stock/digital.webp",
-        "url":"/skrt"
+        "url":"/monitoring"
     },
     {
         "title": {
